@@ -3,13 +3,14 @@ spring:
     #driver-class-name: org.mariadb.jdbc.Driver
     driver-class-name: net.sf.log4jdbc.sql.jdbcapi.DriverSpy
     #url: jdbc:mariadb://localhost:3306/greengram2024_v2
-    url: jdbc:log4jdbc:mariadb://localhost:3306/greengram2024_v2
+    url: jdbc:log4jdbc:mariadb://localhost:3306/greengram2024_tdd
     username: root
     password: green502
 
   servlet:
     multipart:
       max-file-size: 5MB  # 이거 안해주면 디폴트가 1메가임, 20메가까지는 문제 없을거임
+      max-request-size: 30MB
 
 mybatis:
   mapper-locations: mappers/**/*.xml
@@ -27,14 +28,19 @@ springdoc:
     disabled: true
 
 file:
-  dir: D:\Students\MJ\download\greengram_ver2\  # 파일 업로드 시작 위치
+  dir: D:\Students\MJ\download\greengram_tdd\  # 파일 업로드 시작 위치
 
 ---
 
 spring:
   config:
     activate:
-      on-profile: test
+      on-profile: tdd # 프로필 이름 안쓰면 디폴트
+  datasource:
+    url: jdbc:log4jdbc:mariadb://localhost:3306/greengram2024_tdd_test
+  sql:
+    init:
+      mode: always
 
 file:
-  dir: D:\Students\MJ\download\greengram_ver2_1\
+  dir: D:\Students\MJ\download\greengram_tdd_test\

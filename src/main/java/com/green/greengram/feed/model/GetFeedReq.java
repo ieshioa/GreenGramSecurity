@@ -2,8 +2,10 @@ package com.green.greengram.feed.model;
 
 import com.green.greengram.common.model.Paging;
 import io.swagger.v3.oas.annotations.media.Schema;
+import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.Setter;
+import lombok.ToString;
 import org.springframework.web.bind.annotation.BindParam;
 
 import java.beans.ConstructorProperties;
@@ -12,6 +14,8 @@ import static com.green.greengram.common.GlobalConst.FEED_PAGING_SIZE;
 
 @Getter
 @Setter
+@EqualsAndHashCode
+@ToString
 public class GetFeedReq extends Paging {
 
     @Schema(name = "signed_user_id")

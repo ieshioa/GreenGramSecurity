@@ -19,8 +19,8 @@ import static com.green.greengram.common.model.ResultDto.returnDto;
 @RequestMapping("/api/user")
 
 @Tag(name = "유저 컨트롤러", description = "회원가입, 로그인")
-public class UserController {
-    private final UserService service;
+public class UserControllerImpl {
+    private final UserServiceImpl service;
 
     @PostMapping("sign-up")
     @Operation(summary = "signUp", description = "회원가입")

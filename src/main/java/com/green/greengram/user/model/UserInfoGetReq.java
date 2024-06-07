@@ -15,7 +15,7 @@ public class UserInfoGetReq {
     private long profileUserId;
 
     @ConstructorProperties({"signed_user_id","profile_user_id"})
-    private UserInfoGetReq (long signedUserId, long profileUserId) {
+    public UserInfoGetReq (long signedUserId, long profileUserId) {
         this.signedUserId = signedUserId;
         this.profileUserId = profileUserId;
     }

@@ -2,7 +2,15 @@
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
         "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <mapper namespace="com.green.greengram.user.UserMapper">
-
+    <select id="selTest">
+        SELECT user_id AS userId, uid, upw, nm, pic, created_at AS createdAt, updated_at AS updatedAt
+        FROM user
+        <where>
+            <if test="userId > 0">
+                user_id = #{userId}
+            </if>
+        </where>
+    </select>
     <insert id="insUser" useGeneratedKeys="true" keyProperty="userId">
         INSERT INTO user
         SET uid = #{uid}
@@ -18,31 +26,22 @@
     </select>
 
     <select id="selProfileUserInfo">
-        SELECT A.nm, A.pic, A.created_at AS createdAt
-        , B.feedCnt, B.favCnt
-        , C.following, C.follower, C.followState
+        SELECT A.nm, A.pic, A.created_at AS createdAt,  COUNT(DISTINCT B.feed_id) AS feedCnt
+        ,  count(C.feed_id) AS favCnt, D.`following`, D.follower, D.followState
         FROM user A
-        INNER JOIN (
-        SELECT A.writer_id
-        , COUNT(distinct A.feed_id) AS feedCnt
-        , COUNT(B.user_id) AS favCnt
-        FROM feed A
-        LEFT JOIN feed_favorite B
-        ON A.feed_id = B.feed_id
-        WHERE A.writer_id = #{profileUserId}
-        ) B
-        INNER JOIN (
-        SELECT SUM(IF(from_user_id = #{profileUserId}, 1, 0)) AS following
-        , SUM(IF(to_user_id = #{profileUserId}, 1, 0)) AS follower
-        , IFNULL(
+        left JOIN feed B
+        ON A.user_id = B.writer_id
+        LEFT JOIN feed_favorite C
+        ON B.feed_id = C.feed_id
+        JOIN (
+        SELECT SUM(IF(from_user_id = #{profileUserId}, 1, 0)) AS `following`,
+        SUM(IF(to_user_id = #{profileUserId}, 1, 0)) AS follower,
         SUM(
-        IF(from_user_id = #{signedUserId} AND to_user_id = #{profileUserId}, 1, 0)
-        +
-        IF(from_user_id = #{profileUserId} AND to_user_id = #{signedUserId}, 2, 0)
-        )
-        , 0) AS followState
+        IF(from_user_id = #{profileUserId} AND to_user_id = #{signedUserId}, 1, 0) +
+        IF(from_user_id = #{signedUserId} AND to_user_id = #{profileUserId}, 2, 0)
+        ) AS followState
         FROM user_follow
-        ) C
+        ) D
         WHERE A.user_id = #{profileUserId}
     </select>
 

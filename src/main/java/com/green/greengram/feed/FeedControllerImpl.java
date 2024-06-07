@@ -23,8 +23,8 @@ import static com.green.greengram.common.model.ResultDto.returnDto;
 @RestController
 @RequestMapping("api/feed")
 @Tag(name = "피드 컨트롤러", description = "post, get")
-public class FeedController {
-    private final FeedService service;
+public class FeedControllerImpl {  // implements
+    private final FeedServiceImpl service;
 
     @PostMapping
     @Operation(summary = "피드 등록", description = "postFeed")

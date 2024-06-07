@@ -3,6 +3,7 @@ package com.green.greengram.userfollow.model;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import io.swagger.v3.oas.annotations.Parameter;
 import io.swagger.v3.oas.annotations.media.Schema;
+import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.Setter;
 import org.springframework.web.bind.annotation.BindParam;
@@ -11,6 +12,7 @@ import java.beans.ConstructorProperties;
 
 @Getter
 @Setter
+@EqualsAndHashCode
 public class UserFollowReq {
     @Parameter(name = "from_user_id")
     @Schema(example = "45", description = "팔로워 유저 pk")
