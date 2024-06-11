@@ -17,50 +17,54 @@ import org.springframework.util.MultiValueMap;
 import java.util.HashMap;
 import java.util.Map;
 
-import static org.mockito.Mockito.verify;
-import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.*;
 import static org.mockito.BDDMockito.given;
-import static org.junit.jupiter.api.Assertions.*;
+import static org.mockito.Mockito.verify;
+import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
 import static org.springframework.test.web.servlet.result.MockMvcResultHandlers.print;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.content;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 
 @Import(CharEncodingConfiguration.class)
 @WebMvcTest(FeedFavoriteController.class)
-class FeedFavoriteControllerTest {
+class FeedFavoriteControllerTest2 {
     @Autowired private MockMvc mvc;
     @Autowired private ObjectMapper om;
     @MockBean private FeedFavoriteService service;
 
-    @Test
-    void favorite() throws Exception {
-        FeedFavoriteToggleReq p = new FeedFavoriteToggleReq(1,2);
-        int resultData = 1;
+    void proc(FeedFavoriteToggleReq p, Map<String, Object> result) throws Exception {
+        int resultData = (int)result.get("resultData");
         given(service.favorite(p)).willReturn(resultData);
-
 
         MultiValueMap<String, String> param = new LinkedMultiValueMap<>();
         param.add("feed_id", String.valueOf(p.getFeedId()));
         param.add("user_id", String.valueOf(p.getUserId()));
 
-        String msg = resultData == 1 ? "좋아요" : "좋아요 취소";
 
-        ResultDto<Integer> resultDto = ResultDto.<Integer>builder()
-                .statusCode(HttpStatus.OK)
-                .resultMsg(msg)
-                .resultData(resultData)
-                .build();
-
-        String resultJson = om.writeValueAsString(resultDto);
+        String resultJson = om.writeValueAsString(result);
 
         mvc.perform(
-                get("/api/feed/favorite")
-                        .params(param)
-        )
+                        get("/api/feed/favorite")
+                                .params(param)
+                )
                 .andExpect(status().isOk())
                 .andExpect(content().json(resultJson))
                 .andDo(print());
 
         verify(service).favorite(p);
+    }
+
+    @Test
+    void favorite() throws Exception {
+        FeedFavoriteToggleReq p = new FeedFavoriteToggleReq(1,2);
+        int resultData = 0;
+        String msg = resultData == 1 ? "좋아요" : "좋아요 취소";
+
+        Map<String, Object> result = new HashMap<>();
+        result.put("statusCode", HttpStatus.OK);
+        result.put("resultMsg", msg);
+        result.put("resultData", resultData);
+
+        proc(p, result);
+
     }
 }

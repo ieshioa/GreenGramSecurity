@@ -31,11 +31,17 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 @Import(CharEncodingConfiguration.class)  // 한글 안깨지게 하려고
 @WebMvcTest(UserFollowControllerImpl.class)  // 얘를 빈등록해서 들고있어라
                                             //  그래야 UserFollowController 주소값 넣어줄 수 있으니까
+
 @AutoConfigureMockMvc
 class UserFollowControllerTest {
-    @Autowired private ObjectMapper om;  // 제이슨을 객체로 객체를 제이슨으로 바꿔줌
-    @Autowired private MockMvc mvc;  // restful 통신할 수 있게
-    @MockBean private UserFollowService service;
+    @Autowired private ObjectMapper om;  // 제이슨을 객체로 객체를 제이슨으로 바꿔줌  왜? 쓰기 편하려고
+    // object 는 주소값을 가지고 있는데 프론트에 주소값을 보내봤자 아무 의미가 없다.
+    // 데이터가 필요함
+    // 그래서 오브젝트를 json으로 바꿈
+    // 다른데서도 쓸 수 있게 문자열로 바꿈 (직렬화)
+    @Autowired private MockMvc mvc;  // restful 통신할 수 있게, 응답을 뭐로 하는지도 체크해줌
+    @MockBean private UserFollowService service;  // 스프링 컨테이너는 절대 null을 주면서 객체화를 하지 않음
+    // 진짜를 안쓰는게 속도가 더 빨라지니까 가짜를 써서 슬라이스 테스트를 한다.
 
     private final String BASE_URL = "/api/user/follow";
     @Test
