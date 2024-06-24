@@ -1,12 +1,14 @@
 package com.green.greengram.feedcomment.model;
 
 import io.swagger.v3.oas.annotations.Parameter;
+import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.Setter;
 import java.beans.ConstructorProperties;
 
 @Getter
 @Setter
+@EqualsAndHashCode
 public class DelCommentReq {
     @Parameter(name = "signed_user_id")
     private long signedUserId;

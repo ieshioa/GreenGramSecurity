@@ -43,6 +43,8 @@ class UserFollowControllerTest {
     @MockBean private UserFollowService service;  // 스프링 컨테이너는 절대 null을 주면서 객체화를 하지 않음
     // 진짜를 안쓰는게 속도가 더 빨라지니까 가짜를 써서 슬라이스 테스트를 한다.
 
+
+    // DI, 빈등록, 컨트롤러impl에서 서비스 생성자 2개
     private final String BASE_URL = "/api/user/follow";
     @Test
     void postUserFollow() throws Exception {
@@ -62,8 +64,8 @@ class UserFollowControllerTest {
         expectedResultMap.put("resultMsg", HttpStatus.OK.toString());
         expectedResultMap.put("resultData", resultData);
 
-        String exResultJson = om.writeValueAsString(exResult);
-//        String exResultJson = om.writeValueAsString(expectedResultMap);
+      //  String exResultJson = om.writeValueAsString(exResult);
+        String exResultJson = om.writeValueAsString(expectedResultMap);
 
         mvc.perform(MockMvcRequestBuilders
                 .post(BASE_URL)
@@ -71,7 +73,7 @@ class UserFollowControllerTest {
                 .content(json)
         )
                 .andExpect(status().isOk())  // 응답이 200으로 왔는지
-                .andExpect(content().string(exResultJson))  // 응답해준 값이 ()랑 같은지
+                .andExpect(content().json(exResultJson))  // 응답해준 값이 ()랑 같은지
                 .andDo(print());        // 해도되고 안해도되고) 통신의 결과를 찍어라
 
         verify(service).postUserFollow(p);

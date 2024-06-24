@@ -35,7 +35,7 @@ class FeedCommentServiceTest {
         p1.setUserId(2);
         p1.setComment("댓글");
         given(mapper.insComment(p1)).willReturn(1);
-        int r = service.postComment(p1);
+        int r = service.postComment1(p1);
         assertEquals(1,r);
         verify(mapper).insComment(p1);
 

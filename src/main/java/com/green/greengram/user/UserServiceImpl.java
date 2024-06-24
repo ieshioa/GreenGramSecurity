@@ -1,10 +1,14 @@
 package com.green.greengram.user;
 
 import com.green.greengram.common.CustomFileUtils;
+import com.green.greengram.security.JwtTokenProviderV2;
+import com.green.greengram.security.MyUserDetails;
 import com.green.greengram.user.model.*;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.mindrot.jbcrypt.BCrypt;
+import org.springframework.security.core.userdetails.UserDetails;
+import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 import org.springframework.web.multipart.MultipartFile;
@@ -15,11 +19,14 @@ import org.springframework.web.multipart.MultipartFile;
 public class UserServiceImpl implements UserService {
     private final UserMapper mapper;
     private final CustomFileUtils customFileUtils;
+    private final PasswordEncoder passwordEncoder;
+    private final JwtTokenProviderV2 jwtTokenProvider;
 
     @Transactional
     public int signUp(MultipartFile pic, PostUserReq p) {
-        String hashPw = BCrypt.hashpw(p.getUpw(),BCrypt.gensalt());
-        p.setUpw(hashPw);
+        String password = passwordEncoder.encode(p.getUpw());
+//        String password = BCrypt.hashpw(p.getUpw(),BCrypt.gensalt());
+        p.setUpw(password);
         if(pic == null || pic.isEmpty()) {
             return mapper.insUser(p);
         }
@@ -46,7 +53,19 @@ public class UserServiceImpl implements UserService {
         if (!BCrypt.checkpw(p.getUpw(),user.getUpw())) {
             throw new RuntimeException("비밀번호가 틀렸습니다.");
         }
-        return SignInRes.builder().userId(user.getUserId()).nm(user.getNm()).pic(user.getPic()).build();
+//        UserDetails userDetails = new MyUserDetails(user.getUserId(), "ROLE_USER");
+        UserDetails userDetails = MyUserDetails.builder()
+                .userId(user.getUserId())
+                .role("ROLE_USER")
+                .build();
+        String accessToken = jwtTokenProvider.generateAccessToken(userDetails);
+        String refreshToken = jwtTokenProvider.generateRefreshToken(userDetails);
+
+
+        return SignInRes.builder().userId(user.getUserId()).nm(user.getNm())
+                .pic(user.getPic())
+                .accessToken(accessToken)
+                .build();
     }
 
     public UserInfoGetRes profileUserInfo(UserInfoGetReq p) {

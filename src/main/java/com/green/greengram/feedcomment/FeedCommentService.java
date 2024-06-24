@@ -8,7 +8,8 @@ import java.util.List;
 
 public interface FeedCommentService {
 
-    int postComment(PostCommentReq p);
+    int postComment1(PostCommentReq p);
+    long postComment2(PostCommentReq p);
     List<GetCommentsRes> getComments(long feedId);
     int delCommet(DelCommentReq p);
 }

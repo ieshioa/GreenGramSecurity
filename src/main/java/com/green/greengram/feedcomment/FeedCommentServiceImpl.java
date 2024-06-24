@@ -16,8 +16,13 @@ import static com.green.greengram.common.GlobalConst.COMMENT_SIZE_FER_FEED;
 public class FeedCommentServiceImpl implements FeedCommentService{
     private final FeedCommentMapper mapper;
 
-    public int postComment(PostCommentReq p) {
+    public int postComment1(PostCommentReq p) {
         return mapper.insComment(p);
+    }
+
+    public long postComment2(PostCommentReq p) {
+        int r = mapper.insComment(p);
+        return p.getCommentId();
     }
 
     public List<GetCommentsRes> getComments(long feedId) {

@@ -30,6 +30,15 @@ springdoc:
 file:
   dir: D:\Students\MJ\download\greengram_tdd\  # 파일 업로드 시작 위치
 
+app:  # 커스텀임 이름 안중요함
+  jwt:
+    secret: DaeguGreenArtAcademyClass502 # jwt 만들때 사용하는 열솨(암호화) > 나중애 복호화할때도 사용
+    header-schema-name: authorization # 프론트-백 간 jwt 받는 헤더 키 이름
+    token-type: Bearer # Bearer : JWT OR 0Auth (소셜로그인 떄 사용)를 의미
+    access-token-expiry: 1800000 # AT - 만료시간 (ms) (30분)
+    refresh-token-expiry: 1296000000 # RT - 만료시간 - 15일
+
+
 ---
 
 spring:

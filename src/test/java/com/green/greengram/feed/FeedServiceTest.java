@@ -56,14 +56,16 @@ class FeedServiceTest {
                 "pic", "2.png","image/png" ,
                 new FileInputStream(String.format("%stest/2.png",uploadPath))
         );
-
         pics.add(fm1);
         pics.add(fm2);
+
         List<String> fileNm = new ArrayList<>();
         fileNm.add("a1b1.jpg");
         fileNm.add("a2b2.png");
         given(customFileUtils.makeRandomFileName(fm1)).willReturn(fileNm.get(0));
         given(customFileUtils.makeRandomFileName(fm2)).willReturn(fileNm.get(1));
+
+        //given 매퍼
 
         PostFeedRes res = service.postFeed(pics, p);
         String path = String.format("feed/%s", p.getFeedId());
