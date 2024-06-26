@@ -3,6 +3,7 @@ package com.green.greengram.feedcomment;
 import com.green.greengram.feedcomment.model.DelCommentReq;
 import com.green.greengram.feedcomment.model.GetCommentsRes;
 import com.green.greengram.feedcomment.model.PostCommentReq;
+import com.green.greengram.security.AuthenticationFacade;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
@@ -15,12 +16,14 @@ import static com.green.greengram.common.GlobalConst.COMMENT_SIZE_FER_FEED;
 @RequiredArgsConstructor
 public class FeedCommentServiceImpl implements FeedCommentService{
     private final FeedCommentMapper mapper;
+    private final AuthenticationFacade authenticationFacade;
 
     public int postComment1(PostCommentReq p) {
         return mapper.insComment(p);
     }
 
     public long postComment2(PostCommentReq p) {
+        p.setUserId(authenticationFacade.getLoginUserId());
         int r = mapper.insComment(p);
         return p.getCommentId();
     }
@@ -34,6 +37,7 @@ public class FeedCommentServiceImpl implements FeedCommentService{
     }
 
     public int delCommet(DelCommentReq p) {
+        p.setSignedUserId(authenticationFacade.getLoginUserId());
         return mapper.delComment(p);
     }
 }

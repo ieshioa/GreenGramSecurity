@@ -1,11 +1,13 @@
 package com.green.greengram.security;
 
+import com.green.greengram.security.jwt.JwtAuthenticationAccessDeniedHandler;
+import com.green.greengram.security.jwt.JwtAuthenticationEntryPoint;
+import com.green.greengram.security.jwt.JwtAuthenticationFilter;
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.Customizer;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
-import org.springframework.security.config.annotation.web.configurers.SessionManagementConfigurer;
 import org.springframework.security.config.http.SessionCreationPolicy;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.security.crypto.password.PasswordEncoder;
@@ -95,6 +97,8 @@ public class SecurityConfiguration {
                                         , "/swagger"
                                         , "/swagger-ui/**"
                                         , "v3/api-docs/**"
+                                            // 사진
+                                        , "/pic/**" // "/pic/*" 하면 1차까지만 허용됨 ex. /pic/ab.jpg 가능 /pic/aa/abc.jpg 불가능
                                             // 프론트에서 작업한 화면
                                         , "/"
                                         , "/index.html"
@@ -110,6 +114,9 @@ public class SecurityConfiguration {
                         .anyRequest().authenticated() // 나머지 다른 요청들은 인증이 필요함 (근데 스웨거는 주소가 다르니까 이렇게 해두면 다 막힘)
 // 사인업과 사인인은 로그인 안해도 쓸 수 있고 나머지는 로그인 해야만 쓸 수 있게 설정
                 ).addFilterBefore(jwtAuthenticationFilter, UsernamePasswordAuthenticationFilter.class)
+                .exceptionHandling(exception -> exception.authenticationEntryPoint(new JwtAuthenticationEntryPoint())
+                        .accessDeniedHandler(new JwtAuthenticationAccessDeniedHandler())
+                )
             .build();
         // 람다식 안쓰고 리턴하면
 //        return httpSecurity.sessionManagement(new Customizer<SessionManagementConfigurer<HttpSecurity>>() {

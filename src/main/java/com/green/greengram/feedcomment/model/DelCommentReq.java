@@ -1,5 +1,6 @@
 package com.green.greengram.feedcomment.model;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import io.swagger.v3.oas.annotations.Parameter;
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
@@ -11,13 +12,13 @@ import java.beans.ConstructorProperties;
 @EqualsAndHashCode
 public class DelCommentReq {
     @Parameter(name = "signed_user_id")
+    @JsonIgnore
     private long signedUserId;
     @Parameter(name = "feed_comment_id")
     private long feedCommentId;
 
-    @ConstructorProperties({"signed_user_id","feed_comment_id"})
-    public DelCommentReq(long signedUserId, long feedCommentId) {
-        this.signedUserId = signedUserId;
+    @ConstructorProperties("feed_comment_id")
+    public DelCommentReq(long feedCommentId) {
         this.feedCommentId = feedCommentId;
     }
 

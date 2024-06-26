@@ -3,6 +3,7 @@ package com.green.greengram.feed;
 import com.green.greengram.common.CustomFileUtils;
 import com.green.greengram.feed.model.*;
 import com.green.greengram.feedcomment.model.GetCommentsRes;
+import com.green.greengram.security.AuthenticationFacade;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
@@ -19,9 +20,11 @@ import static com.green.greengram.common.GlobalConst.COMMENT_SIZE_FER_FEED;
 public class FeedServiceImpl implements FeedService {
     private final FeedMapper mapper;
     private final CustomFileUtils customFileUtils;
+    private final AuthenticationFacade authenticationFacade;
 
     @Transactional
     public PostFeedRes postFeed(List<MultipartFile> pics, PostFeedReq p) {
+        p.setUserId(authenticationFacade.getLoginUserId());
         int insFeedResult = mapper.insFeed(p);
         if(pics == null || pics.get(0).isEmpty()) {
             return PostFeedRes.builder().feedId(p.getFeedId()).build();
@@ -46,6 +49,7 @@ public class FeedServiceImpl implements FeedService {
     }
 
     public List<GetFeedRes> getFeed (GetFeedReq p) {
+        p.setSignedUserId(authenticationFacade.getLoginUserId());
         List<GetFeedRes> list = mapper.getFeed(p);
         for (GetFeedRes feed : list) {
             long feedId = feed.getFeedId();

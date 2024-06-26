@@ -1,4 +1,4 @@
-package com.green.greengram.security;
+package com.green.greengram.security.jwt;
 
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
@@ -22,13 +22,15 @@ public class JwtAuthenticationFilter extends OncePerRequestFilter { // extends �
 
     @Override
     protected void doFilterInternal(HttpServletRequest request, HttpServletResponse response, FilterChain filterChain) throws ServletException, IOException {
-        String token = jwtTokenProvider.resolveToken(request);
+        String token = jwtTokenProvider.resolveToken(request); // header 의 authorization 키에 저장되어 있는 값을 리턴
+                                                                    //  있으면(로그인했다) 문자열 (JWT) 없으면(로그인 안했다) null
         // null이 넘어오지 않으면 잘된거
         log.info("JwtAuthenticationFilter-Token : {}",token);
 
         if(token != null && jwtTokenProvider.isValidateToken(token)) { // null이 아니고 토큰이 살아있다면
-            Authentication auth = jwtTokenProvider.getAuthentication(token);
+            Authentication auth = jwtTokenProvider.getAuthentication(token); // SecurityContextHolder의 Context 의 담기 위한 Authentication 객체 생성
             if(auth != null) {
+                // Authentication 객체 주소값을 담으면 인증되었다고 인식
                 SecurityContextHolder.getContext().setAuthentication(auth);
             }
         }

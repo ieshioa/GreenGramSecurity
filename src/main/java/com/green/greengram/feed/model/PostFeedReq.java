@@ -13,6 +13,7 @@ public class PostFeedReq {
     @JsonIgnore
     private long feedId;
     @Schema(example = "1", description = "작성자 pk")
+    @JsonIgnore
     private long userId;
     @Schema(example = "안녕하세요.", description = "게시글 내용")
     private String contents;

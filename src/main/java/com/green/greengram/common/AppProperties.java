@@ -6,6 +6,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 
 @Getter
 @Setter
+// @ConfigurationProperties : 야믈에 작성되어 있는 데이터를 객체화 시켜주는 애노테이션
 @ConfigurationProperties(prefix = "app") // 야믈 파일의 app 을 의미
 public class AppProperties {
     private final Jwt jwt = new Jwt();
@@ -21,7 +22,7 @@ public class AppProperties {
         private String tokenType;
         private long accessTokenExpiry;
         private long refreshTokenExpiry;
-        private long refreshTokenCookieMaxAge;
+        private int refreshTokenCookieMaxAge;
 
         public void setRefreshTokenExpiry(long refreshTokenExpiry) {
             this.refreshTokenExpiry = refreshTokenExpiry;

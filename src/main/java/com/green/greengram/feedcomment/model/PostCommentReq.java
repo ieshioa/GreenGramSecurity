@@ -13,6 +13,7 @@ public class PostCommentReq {
     @Schema(example = "1", description = "피드 pk")
     private long feedId;
     @Schema(example = "1", description = "유저 pk")
+    @JsonIgnore
     private long userId;
     @Schema(example = "댓글댓글", description = "댓글 내용")
     private String comment;

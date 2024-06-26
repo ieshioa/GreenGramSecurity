@@ -4,12 +4,16 @@ import com.green.greengram.common.model.ResultDto;
 import com.green.greengram.user.model.*;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.tags.Tag;
+import jakarta.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletResponse;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springdoc.core.annotations.ParameterObject;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.multipart.MultipartFile;
+
+import java.util.Map;
 
 import static com.green.greengram.common.model.ResultDto.returnDto;
 
@@ -32,9 +36,16 @@ public class UserControllerImpl {
 
     @PostMapping("sign-in")
     @Operation(summary = "signIn", description = "로그인")
-    public ResultDto<SignInRes> signIn (@RequestBody SignInReq p) {
-        SignInRes result = service.signIn(p);
+    public ResultDto<SignInRes> signIn (HttpServletResponse res, @RequestBody SignInReq p) {
+        SignInRes result = service.signIn(p, res);
         return returnDto(HttpStatus.OK,"로그인 성공", result);
+    }
+
+    @GetMapping("refresh-token")
+    public ResultDto<Map> getRefreshToken(HttpServletRequest req) {
+        Map map = service.getAccessToken(req);
+
+        return new ResultDto(HttpStatus.OK,"Access Token 발급", map);
     }
 
     @GetMapping

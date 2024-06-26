@@ -1,5 +1,6 @@
 package com.green.greengram.feed.model;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.green.greengram.common.model.Paging;
 import io.swagger.v3.oas.annotations.media.Schema;
 import lombok.EqualsAndHashCode;
@@ -19,12 +20,12 @@ import static com.green.greengram.common.GlobalConst.FEED_PAGING_SIZE;
 public class GetFeedReq extends Paging {
 
     @Schema(name = "signed_user_id")
+    @JsonIgnore
     private long signedUserId;
     @Schema(name = "profile_user_id", description = "프로필 화면에서 사용")
     private Long profileUserId;
-    public GetFeedReq(Integer page, Integer size, @BindParam("signed_user_id") long signedUserId, @BindParam("profile_user_id") Long profileUserId) {
+    public GetFeedReq(Integer page, Integer size, @BindParam("profile_user_id") Long profileUserId) {
         super(page, size == null || size == 0 ? FEED_PAGING_SIZE : size);
-        this.signedUserId = signedUserId;
         this.profileUserId = profileUserId;
     }
     /*
