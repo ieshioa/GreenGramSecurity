@@ -13,8 +13,7 @@ import java.util.List;
 import static com.green.greengram.common.model.ResultDto.returnDto;
 
 public interface FeedCommentController {
-    ResultDto<Integer> postComment1 (PostCommentReq p) ;
-    ResultDto<Integer> postComment2 (PostCommentReq p) ;
+    ResultDto<Integer> postComment (PostCommentReq p) ;
     ResultDto<List<GetCommentsRes>> getComments (long feedId);
     ResultDto<Integer> delComment(DelCommentReq p) ;
 

@@ -1,0 +1,84 @@
+[2024-06-11 10:37:24 INFO  Test worker] [com.green.greengram.feedfavorite.FeedFavoriteControllerTest] Starting FeedFavoriteControllerTest using Java 17.0.10 with PID 7420 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-11 10:37:24 INFO  Test worker] [com.green.greengram.feedfavorite.FeedFavoriteControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-11 10:37:25 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-11 10:37:25 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-11 10:37:25 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-11 10:37:25 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-11 10:37:25 INFO  Test worker] [com.green.greengram.feedfavorite.FeedFavoriteControllerTest] Started FeedFavoriteControllerTest in 1.9 seconds (process running for 2.81)
+[2024-06-11 10:48:59 INFO  Test worker] [com.green.greengram.feedfavorite.FeedFavoriteControllerTest] Starting FeedFavoriteControllerTest using Java 17.0.10 with PID 11036 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-11 10:48:59 INFO  Test worker] [com.green.greengram.feedfavorite.FeedFavoriteControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-11 10:49:00 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-11 10:49:01 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-11 10:49:01 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-11 10:49:01 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-11 10:49:01 INFO  Test worker] [com.green.greengram.feedfavorite.FeedFavoriteControllerTest] Started FeedFavoriteControllerTest in 1.63 seconds (process running for 2.445)
+[2024-06-11 10:52:15 INFO  Test worker] [com.green.greengram.feedfavorite.FeedFavoriteControllerTest] Starting FeedFavoriteControllerTest using Java 17.0.10 with PID 5828 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-11 10:52:15 INFO  Test worker] [com.green.greengram.feedfavorite.FeedFavoriteControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-11 10:52:17 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-11 10:52:17 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-11 10:52:17 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-11 10:52:17 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-11 10:52:17 INFO  Test worker] [com.green.greengram.feedfavorite.FeedFavoriteControllerTest] Started FeedFavoriteControllerTest in 1.653 seconds (process running for 2.49)
+[2024-06-11 11:35:06 INFO  Test worker] [com.green.greengram.feedfavorite.FeedFavoriteControllerTest] Starting FeedFavoriteControllerTest using Java 17.0.10 with PID 4764 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-11 11:35:06 INFO  Test worker] [com.green.greengram.feedfavorite.FeedFavoriteControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-11 11:35:07 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-11 11:35:07 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-11 11:35:07 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-11 11:35:07 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-11 11:35:07 INFO  Test worker] [com.green.greengram.feedfavorite.FeedFavoriteControllerTest] Started FeedFavoriteControllerTest in 1.651 seconds (process running for 2.451)
+[2024-06-11 11:36:42 INFO  Test worker] [com.green.greengram.feedfavorite.FeedFavoriteControllerTest] Starting FeedFavoriteControllerTest using Java 17.0.10 with PID 4684 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-11 11:36:42 INFO  Test worker] [com.green.greengram.feedfavorite.FeedFavoriteControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-11 11:36:43 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-11 11:36:43 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-11 11:36:43 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-11 11:36:43 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-11 11:36:43 INFO  Test worker] [com.green.greengram.feedfavorite.FeedFavoriteControllerTest] Started FeedFavoriteControllerTest in 1.641 seconds (process running for 2.476)
+[2024-06-11 11:37:00 INFO  Test worker] [com.green.greengram.feedfavorite.FeedFavoriteControllerTest] Starting FeedFavoriteControllerTest using Java 17.0.10 with PID 3272 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-11 11:37:00 INFO  Test worker] [com.green.greengram.feedfavorite.FeedFavoriteControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-11 11:37:01 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-11 11:37:02 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-11 11:37:02 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-11 11:37:02 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-11 11:37:02 INFO  Test worker] [com.green.greengram.feedfavorite.FeedFavoriteControllerTest] Started FeedFavoriteControllerTest in 1.672 seconds (process running for 2.48)
+[2024-06-11 12:39:31 INFO  Test worker] [com.green.greengram.feedfavorite.FeedFavoriteControllerTest2] Starting FeedFavoriteControllerTest2 using Java 17.0.10 with PID 12224 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-11 12:39:31 INFO  Test worker] [com.green.greengram.feedfavorite.FeedFavoriteControllerTest2] No active profile set, falling back to 1 default profile: "default"
+[2024-06-11 12:39:32 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-11 12:39:33 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-11 12:39:33 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-11 12:39:33 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 2 ms
+[2024-06-11 12:39:33 INFO  Test worker] [com.green.greengram.feedfavorite.FeedFavoriteControllerTest2] Started FeedFavoriteControllerTest2 in 1.687 seconds (process running for 2.496)
+[2024-06-11 12:42:26 INFO  Test worker] [com.green.greengram.feedfavorite.FeedFavoriteControllerTest2] Starting FeedFavoriteControllerTest2 using Java 17.0.10 with PID 11192 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-11 12:42:26 INFO  Test worker] [com.green.greengram.feedfavorite.FeedFavoriteControllerTest2] No active profile set, falling back to 1 default profile: "default"
+[2024-06-11 12:42:27 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-11 12:42:27 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-11 12:42:27 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-11 12:42:27 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-11 12:42:27 INFO  Test worker] [com.green.greengram.feedfavorite.FeedFavoriteControllerTest2] Started FeedFavoriteControllerTest2 in 1.684 seconds (process running for 2.494)
+[2024-06-11 12:42:33 INFO  Test worker] [com.green.greengram.feedfavorite.FeedFavoriteControllerTest] Starting FeedFavoriteControllerTest using Java 17.0.10 with PID 11000 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-11 12:42:33 INFO  Test worker] [com.green.greengram.feedfavorite.FeedFavoriteControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-11 12:42:34 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-11 12:42:34 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-11 12:42:34 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-11 12:42:34 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-11 12:42:34 INFO  Test worker] [com.green.greengram.feedfavorite.FeedFavoriteControllerTest] Started FeedFavoriteControllerTest in 1.645 seconds (process running for 2.452)
+[2024-06-11 12:43:06 INFO  Test worker] [com.green.greengram.feedfavorite.FeedFavoriteControllerTest2] Starting FeedFavoriteControllerTest2 using Java 17.0.10 with PID 13180 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-11 12:43:06 INFO  Test worker] [com.green.greengram.feedfavorite.FeedFavoriteControllerTest2] No active profile set, falling back to 1 default profile: "default"
+[2024-06-11 12:43:07 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-11 12:43:07 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-11 12:43:07 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-11 12:43:07 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-11 12:43:07 INFO  Test worker] [com.green.greengram.feedfavorite.FeedFavoriteControllerTest2] Started FeedFavoriteControllerTest2 in 1.68 seconds (process running for 2.492)
+[2024-06-11 12:43:44 INFO  Test worker] [com.green.greengram.feedfavorite.FeedFavoriteControllerTest2] Starting FeedFavoriteControllerTest2 using Java 17.0.10 with PID 12504 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-11 12:43:44 INFO  Test worker] [com.green.greengram.feedfavorite.FeedFavoriteControllerTest2] No active profile set, falling back to 1 default profile: "default"
+[2024-06-11 12:43:46 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-11 12:43:46 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-11 12:43:46 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-11 12:43:46 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-11 12:43:46 INFO  Test worker] [com.green.greengram.feedfavorite.FeedFavoriteControllerTest2] Started FeedFavoriteControllerTest2 in 1.679 seconds (process running for 2.518)
+[2024-06-11 12:44:05 INFO  Test worker] [com.green.greengram.feedfavorite.FeedFavoriteControllerTest2] Starting FeedFavoriteControllerTest2 using Java 17.0.10 with PID 11468 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-11 12:44:05 INFO  Test worker] [com.green.greengram.feedfavorite.FeedFavoriteControllerTest2] No active profile set, falling back to 1 default profile: "default"
+[2024-06-11 12:44:06 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-11 12:44:06 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-11 12:44:06 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-11 12:44:06 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-11 12:44:06 INFO  Test worker] [com.green.greengram.feedfavorite.FeedFavoriteControllerTest2] Started FeedFavoriteControllerTest2 in 1.642 seconds (process running for 2.464)

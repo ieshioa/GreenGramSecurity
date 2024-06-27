@@ -1,11 +1,15 @@
 spring:
+  config:
+    # optional : .env 파일이 없어도 컴파일 에러 발생 x
+    # file : 파일을 import 하겠다.
+    # .env : 파일명
+    import: optional:file:.env
   datasource:
-    #driver-class-name: org.mariadb.jdbc.Driver
     driver-class-name: net.sf.log4jdbc.sql.jdbcapi.DriverSpy
-    #url: jdbc:mariadb://localhost:3306/greengram2024_v2
-    url: jdbc:log4jdbc:mariadb://localhost:3306/greengram2024_tdd
-    username: root
-    password: green502
+    url: ${DEFAULT.DB_URL} #.env 파일의 변수사용 ${변수명}
+    # url: jdbc:log4jdbc:mariadb://localhost:3306/greengram2024_tdd
+    username: ${DEFAULT.DB_USERNAME}
+    password: ${DEFAULT.DB_PASSWORD}
 
   servlet:
     multipart:
@@ -28,7 +32,7 @@ springdoc:
     disabled: true
 
 file:
-  dir: D:\Students\MJ\download\greengram_tdd\  # 파일 업로드 시작 위치
+  dir: ${DEFAULT.DB_PASSWORD}  # 파일 업로드 시작 위치
 
 app:  # 커스텀임 이름 안중요함
   jwt:
@@ -58,10 +62,10 @@ spring:
     activate:
       on-profile: tdd # 프로필 이름 안쓰면 디폴트
   datasource:
-    url: jdbc:log4jdbc:mariadb://localhost:3306/greengram2024_tdd_test
+    url: ${TDD.DB_URL}
   sql:
     init:
       mode: always
 
 file:
-  dir: D:\Students\MJ\download\greengram_tdd_test\
+  dir: D:\Students\MJ\download\greengram_tdd_test

@@ -93,12 +93,14 @@ public class SecurityConfiguration {
                                             // 회원가입, 로그인
                                         "/api/user/sign-up"
                                         ,"/api/user/sign-in"
+                                        ,"/api/user/access-token"
                                             // 스웨거
                                         , "/swagger"
                                         , "/swagger-ui/**"
                                         , "v3/api-docs/**"
                                             // 사진
                                         , "/pic/**" // "/pic/*" 하면 1차까지만 허용됨 ex. /pic/ab.jpg 가능 /pic/aa/abc.jpg 불가능
+                                        ,"/fimg/**"
                                             // 프론트에서 작업한 화면
                                         , "/"
                                         , "/index.html"
@@ -106,8 +108,8 @@ public class SecurityConfiguration {
                                         , "/js/**"
                                         , "/static/**"
                                         // 프론트에서 사용하는 라우터 주소를 허용해줘야한다 (안해주면 새로고침 했을 떄 안됨)
-                                        , "sign-in"
-                                        , "sign-up"
+                                        , "/sign-in"
+                                        , "/sign-up"
                                         , "/profile/*"
                                         , "/feed"   // /feed 로 요청이 들어옴 -> 시큐리티에서 허용한거면 통과 -> 핸들러 -> /feed 연결된 api가 없음 -> static을 뒤짐
                                 ).permitAll()

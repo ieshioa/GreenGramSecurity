@@ -1,0 +1,1068 @@
+[2024-06-12 10:16:36 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Starting FeedCommentControllerTest using Java 17.0.10 with PID 7456 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-12 10:16:36 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-12 10:16:37 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-12 10:16:37 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-12 10:16:37 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-12 10:16:37 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-12 10:16:38 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Started FeedCommentControllerTest in 1.916 seconds (process running for 2.823)
+[2024-06-12 10:17:11 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Starting FeedCommentControllerTest using Java 17.0.10 with PID 10392 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-12 10:17:11 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-12 10:17:12 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-12 10:17:12 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-12 10:17:12 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-12 10:17:12 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-12 10:17:12 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Started FeedCommentControllerTest in 1.68 seconds (process running for 2.508)
+[2024-06-12 10:18:04 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Starting FeedCommentControllerTest using Java 17.0.10 with PID 8044 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-12 10:18:04 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-12 10:18:05 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-12 10:18:05 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-12 10:18:05 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-12 10:18:05 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-12 10:18:05 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Started FeedCommentControllerTest in 1.714 seconds (process running for 2.548)
+[2024-06-12 10:18:20 INFO  Test worker] [com.green.greengram.userfollow.UserFollowControllerTest] Starting UserFollowControllerTest using Java 17.0.10 with PID 8416 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-12 10:18:20 INFO  Test worker] [com.green.greengram.userfollow.UserFollowControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-12 10:18:21 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-12 10:18:21 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-12 10:18:21 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-12 10:18:21 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-12 10:18:21 INFO  Test worker] [com.green.greengram.userfollow.UserFollowControllerTest] Started UserFollowControllerTest in 1.75 seconds (process running for 2.567)
+[2024-06-12 10:18:50 INFO  Test worker] [com.green.greengram.userfollow.UserFollowControllerTest] Starting UserFollowControllerTest using Java 17.0.10 with PID 11164 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-12 10:18:50 INFO  Test worker] [com.green.greengram.userfollow.UserFollowControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-12 10:18:51 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-12 10:18:51 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-12 10:18:51 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-12 10:18:51 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-12 10:18:51 INFO  Test worker] [com.green.greengram.userfollow.UserFollowControllerTest] Started UserFollowControllerTest in 1.688 seconds (process running for 2.492)
+[2024-06-12 10:19:46 INFO  Test worker] [com.green.greengram.userfollow.UserFollowControllerTest] Starting UserFollowControllerTest using Java 17.0.10 with PID 8212 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-12 10:19:46 INFO  Test worker] [com.green.greengram.userfollow.UserFollowControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-12 10:19:47 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-12 10:19:48 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-12 10:19:48 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-12 10:19:48 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-12 10:19:48 INFO  Test worker] [com.green.greengram.userfollow.UserFollowControllerTest] Started UserFollowControllerTest in 1.666 seconds (process running for 2.475)
+[2024-06-12 10:31:57 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Starting FeedCommentControllerTest using Java 17.0.10 with PID 11444 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-12 10:31:57 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-12 10:31:58 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-12 10:31:58 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-12 10:31:58 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-12 10:31:58 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 2 ms
+[2024-06-12 10:31:58 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Started FeedCommentControllerTest in 1.728 seconds (process running for 2.541)
+[2024-06-12 10:32:06 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Starting FeedCommentControllerTest using Java 17.0.10 with PID 11484 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-12 10:32:06 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-12 10:32:07 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-12 10:32:07 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-12 10:32:07 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-12 10:32:07 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-12 10:32:07 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Started FeedCommentControllerTest in 1.756 seconds (process running for 2.701)
+[2024-06-12 10:33:58 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Starting FeedCommentControllerTest using Java 17.0.10 with PID 3548 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-12 10:33:58 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-12 10:33:59 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-12 10:33:59 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-12 10:33:59 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-12 10:33:59 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-12 10:33:59 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Started FeedCommentControllerTest in 1.659 seconds (process running for 2.489)
+[2024-06-12 10:34:33 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Starting FeedCommentControllerTest using Java 17.0.10 with PID 12052 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-12 10:34:33 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-12 10:34:35 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-12 10:34:35 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-12 10:34:35 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-12 10:34:35 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-12 10:34:35 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Started FeedCommentControllerTest in 1.683 seconds (process running for 2.475)
+[2024-06-12 11:05:29 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Starting FeedCommentControllerTest using Java 17.0.10 with PID 12236 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-12 11:05:29 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-12 11:05:30 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-12 11:05:30 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-12 11:05:30 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-12 11:05:30 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 0 ms
+[2024-06-12 11:05:30 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Started FeedCommentControllerTest in 1.702 seconds (process running for 2.505)
+[2024-06-12 11:12:28 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Starting FeedCommentControllerTest using Java 17.0.10 with PID 2028 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-12 11:12:28 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-12 11:12:29 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-12 11:12:29 WARN  Test worker] [org.springframework.web.context.support.GenericWebApplicationContext] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Ambiguous mapping. Cannot map 'feedCommentControllerImpl' method 
+com.green.greengram.feedcomment.FeedCommentControllerImpl#postComment2(PostCommentReq)
+to {POST [/api/feed/comment]}: There is already 'feedCommentControllerImpl' bean method
+com.green.greengram.feedcomment.FeedCommentControllerImpl#postComment1(PostCommentReq) mapped.
+[2024-06-12 11:12:29 INFO  Test worker] [org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLogger] 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+[2024-06-12 11:12:29 ERROR Test worker] [org.springframework.boot.SpringApplication] Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Ambiguous mapping. Cannot map 'feedCommentControllerImpl' method 
+com.green.greengram.feedcomment.FeedCommentControllerImpl#postComment2(PostCommentReq)
+to {POST [/api/feed/comment]}: There is already 'feedCommentControllerImpl' bean method
+com.green.greengram.feedcomment.FeedCommentControllerImpl#postComment1(PostCommentReq) mapped.
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1786)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:600)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:975)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:962)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:624)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:334)
+	at org.springframework.boot.test.context.SpringBootContextLoader.lambda$loadContext$3(SpringBootContextLoader.java:137)
+	at org.springframework.util.function.ThrowingSupplier.get(ThrowingSupplier.java:58)
+	at org.springframework.util.function.ThrowingSupplier.get(ThrowingSupplier.java:46)
+	at org.springframework.boot.SpringApplication.withHook(SpringApplication.java:1454)
+	at org.springframework.boot.test.context.SpringBootContextLoader$ContextLoaderHook.run(SpringBootContextLoader.java:553)
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:137)
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:108)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContextInternal(DefaultCacheAwareContextLoaderDelegate.java:225)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:152)
+	at org.springframework.test.context.support.DefaultTestContext.getApplicationContext(DefaultTestContext.java:130)
+	at org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener.postProcessFields(MockitoTestExecutionListener.java:122)
+	at org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener.injectFields(MockitoTestExecutionListener.java:106)
+	at org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener.prepareTestInstance(MockitoTestExecutionListener.java:63)
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:260)
+	at org.springframework.test.context.junit.jupiter.SpringExtension.postProcessTestInstance(SpringExtension.java:163)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$10(ClassBasedTestDescriptor.java:378)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.executeAndMaskThrowable(ClassBasedTestDescriptor.java:383)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$11(ClassBasedTestDescriptor.java:378)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.StreamSpliterators$WrappingSpliterator.forEachRemaining(StreamSpliterators.java:310)
+	at java.base/java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:735)
+	at java.base/java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:734)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.invokeTestInstancePostProcessors(ClassBasedTestDescriptor.java:377)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$instantiateAndPostProcessTestInstance$6(ClassBasedTestDescriptor.java:290)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.instantiateAndPostProcessTestInstance(ClassBasedTestDescriptor.java:289)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$4(ClassBasedTestDescriptor.java:279)
+	at java.base/java.util.Optional.orElseGet(Optional.java:364)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$5(ClassBasedTestDescriptor.java:278)
+	at org.junit.jupiter.engine.execution.TestInstancesProvider.getTestInstances(TestInstancesProvider.java:31)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$prepare$0(TestMethodTestDescriptor.java:106)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:105)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:69)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$prepare$2(NodeTestTask.java:123)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.prepare(NodeTestTask.java:123)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:90)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:198)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:169)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:93)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:58)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:141)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:57)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:103)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:85)
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47)
+	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor$CollectAllTestClassesExecutor.processAllTestClasses(JUnitPlatformTestClassProcessor.java:119)
+	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor$CollectAllTestClassesExecutor.access$000(JUnitPlatformTestClassProcessor.java:94)
+	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor.stop(JUnitPlatformTestClassProcessor.java:89)
+	at org.gradle.api.internal.tasks.testing.SuiteTestClassProcessor.stop(SuiteTestClassProcessor.java:62)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+	at org.gradle.internal.dispatch.ContextClassLoaderDispatch.dispatch(ContextClassLoaderDispatch.java:33)
+	at org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:94)
+	at jdk.proxy1/jdk.proxy1.$Proxy2.stop(Unknown Source)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker$3.run(TestWorker.java:193)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.executeAndMaintainThreadName(TestWorker.java:129)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.execute(TestWorker.java:100)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.execute(TestWorker.java:60)
+	at org.gradle.process.internal.worker.child.ActionExecutionWorker.execute(ActionExecutionWorker.java:56)
+	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:113)
+	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:65)
+	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69)
+	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74)
+Caused by: java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'feedCommentControllerImpl' method 
+com.green.greengram.feedcomment.FeedCommentControllerImpl#postComment2(PostCommentReq)
+to {POST [/api/feed/comment]}: There is already 'feedCommentControllerImpl' bean method
+com.green.greengram.feedcomment.FeedCommentControllerImpl#postComment1(PostCommentReq) mapped.
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.validateMethodMapping(AbstractHandlerMethodMapping.java:674)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register(AbstractHandlerMethodMapping.java:636)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.registerHandlerMethod(AbstractHandlerMethodMapping.java:331)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:508)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:84)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.lambda$detectHandlerMethods$2(AbstractHandlerMethodMapping.java:298)
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:721)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.detectHandlerMethods(AbstractHandlerMethodMapping.java:296)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.processCandidateBean(AbstractHandlerMethodMapping.java:265)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initHandlerMethods(AbstractHandlerMethodMapping.java:224)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.afterPropertiesSet(AbstractHandlerMethodMapping.java:212)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.afterPropertiesSet(RequestMappingHandlerMapping.java:239)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1833)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1782)
+	... 109 common frames omitted
+[2024-06-12 11:12:29 WARN  Test worker] [org.springframework.test.context.TestContextManager] Caught exception while allowing TestExecutionListener [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener] to prepare test instance [com.green.greengram.feedcomment.FeedCommentControllerTest@18c820d2]
+java.lang.IllegalStateException: Failed to load ApplicationContext for [WebMergedContextConfiguration@144ee8a7 testClass = com.green.greengram.feedcomment.FeedCommentControllerTest, locations = [], classes = [com.green.greengram.GreenGramTddApplication], contextInitializerClasses = [], activeProfiles = [], propertySourceDescriptors = [], propertySourceProperties = ["org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTestContextBootstrapper=true"], contextCustomizers = [org.springframework.boot.test.autoconfigure.OverrideAutoConfigurationContextCustomizerFactory$DisableAutoConfigurationContextCustomizer@424fd310, org.springframework.boot.test.autoconfigure.actuate.observability.ObservabilityContextCustomizerFactory$DisableObservabilityContextCustomizer@1f, org.springframework.boot.test.autoconfigure.filter.TypeExcludeFiltersContextCustomizer@2c8ae3ed, org.springframework.boot.test.autoconfigure.properties.PropertyMappingContextCustomizer@e7f7b354, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverContextCustomizer@6941827a, [ImportsContextCustomizer@52b32b70 key = [org.springframework.boot.autoconfigure.task.TaskExecutionAutoConfiguration, org.springframework.boot.autoconfigure.cache.CacheAutoConfiguration, org.springframework.boot.autoconfigure.web.servlet.HttpEncodingAutoConfiguration, org.springframework.boot.autoconfigure.validation.ValidationAutoConfiguration, org.springframework.boot.autoconfigure.context.MessageSourceAutoConfiguration, org.springframework.boot.autoconfigure.hateoas.HypermediaAutoConfiguration, org.springframework.boot.autoconfigure.data.web.SpringDataWebAutoConfiguration, org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration, org.springframework.boot.test.autoconfigure.web.reactive.WebTestClientAutoConfiguration, org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConfiguration, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcAutoConfiguration, org.springframework.boot.autoconfigure.security.servlet.SecurityAutoConfiguration, org.springframework.boot.autoconfigure.security.servlet.SecurityFilterAutoConfiguration, org.springframework.boot.autoconfigure.http.HttpMessageConvertersAutoConfiguration, org.springframework.boot.autoconfigure.security.oauth2.client.servlet.OAuth2ClientAutoConfiguration, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcSecurityConfiguration, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcWebClientAutoConfiguration, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcWebDriverAutoConfiguration, org.springframework.boot.autoconfigure.thymeleaf.ThymeleafAutoConfiguration, org.springframework.boot.autoconfigure.gson.GsonAutoConfiguration, org.springframework.boot.autoconfigure.jsonb.JsonbAutoConfiguration, org.springframework.boot.autoconfigure.freemarker.FreeMarkerAutoConfiguration, org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration, com.green.greengram.CharEncodingConfiguration, org.springframework.boot.autoconfigure.security.servlet.UserDetailsServiceAutoConfiguration, org.springframework.boot.autoconfigure.security.oauth2.resource.servlet.OAuth2ResourceServerAutoConfiguration, org.springframework.boot.autoconfigure.groovy.template.GroovyTemplateAutoConfiguration, org.springframework.boot.autoconfigure.mustache.MustacheAutoConfiguration]], org.springframework.boot.test.context.filter.ExcludeFilterContextCustomizer@67ab1c47, org.springframework.boot.test.json.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer@2a3c96e3, org.springframework.boot.test.mock.mockito.MockitoContextCustomizer@609c9b65, org.springframework.boot.test.context.SpringBootTestAnnotation@1871582e], resourceBasePath = "src/main/webapp", contextLoader = org.springframework.boot.test.context.SpringBootContextLoader, parent = null]
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:180)
+	at org.springframework.test.context.support.DefaultTestContext.getApplicationContext(DefaultTestContext.java:130)
+	at org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener.postProcessFields(MockitoTestExecutionListener.java:122)
+	at org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener.injectFields(MockitoTestExecutionListener.java:106)
+	at org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener.prepareTestInstance(MockitoTestExecutionListener.java:63)
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:260)
+	at org.springframework.test.context.junit.jupiter.SpringExtension.postProcessTestInstance(SpringExtension.java:163)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$10(ClassBasedTestDescriptor.java:378)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.executeAndMaskThrowable(ClassBasedTestDescriptor.java:383)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$11(ClassBasedTestDescriptor.java:378)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.StreamSpliterators$WrappingSpliterator.forEachRemaining(StreamSpliterators.java:310)
+	at java.base/java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:735)
+	at java.base/java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:734)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.invokeTestInstancePostProcessors(ClassBasedTestDescriptor.java:377)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$instantiateAndPostProcessTestInstance$6(ClassBasedTestDescriptor.java:290)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.instantiateAndPostProcessTestInstance(ClassBasedTestDescriptor.java:289)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$4(ClassBasedTestDescriptor.java:279)
+	at java.base/java.util.Optional.orElseGet(Optional.java:364)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$5(ClassBasedTestDescriptor.java:278)
+	at org.junit.jupiter.engine.execution.TestInstancesProvider.getTestInstances(TestInstancesProvider.java:31)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$prepare$0(TestMethodTestDescriptor.java:106)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:105)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:69)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$prepare$2(NodeTestTask.java:123)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.prepare(NodeTestTask.java:123)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:90)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:198)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:169)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:93)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:58)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:141)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:57)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:103)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:85)
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47)
+	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor$CollectAllTestClassesExecutor.processAllTestClasses(JUnitPlatformTestClassProcessor.java:119)
+	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor$CollectAllTestClassesExecutor.access$000(JUnitPlatformTestClassProcessor.java:94)
+	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor.stop(JUnitPlatformTestClassProcessor.java:89)
+	at org.gradle.api.internal.tasks.testing.SuiteTestClassProcessor.stop(SuiteTestClassProcessor.java:62)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+	at org.gradle.internal.dispatch.ContextClassLoaderDispatch.dispatch(ContextClassLoaderDispatch.java:33)
+	at org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:94)
+	at jdk.proxy1/jdk.proxy1.$Proxy2.stop(Unknown Source)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker$3.run(TestWorker.java:193)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.executeAndMaintainThreadName(TestWorker.java:129)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.execute(TestWorker.java:100)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.execute(TestWorker.java:60)
+	at org.gradle.process.internal.worker.child.ActionExecutionWorker.execute(ActionExecutionWorker.java:56)
+	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:113)
+	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:65)
+	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69)
+	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Ambiguous mapping. Cannot map 'feedCommentControllerImpl' method 
+com.green.greengram.feedcomment.FeedCommentControllerImpl#postComment2(PostCommentReq)
+to {POST [/api/feed/comment]}: There is already 'feedCommentControllerImpl' bean method
+com.green.greengram.feedcomment.FeedCommentControllerImpl#postComment1(PostCommentReq) mapped.
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1786)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:600)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:975)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:962)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:624)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:334)
+	at org.springframework.boot.test.context.SpringBootContextLoader.lambda$loadContext$3(SpringBootContextLoader.java:137)
+	at org.springframework.util.function.ThrowingSupplier.get(ThrowingSupplier.java:58)
+	at org.springframework.util.function.ThrowingSupplier.get(ThrowingSupplier.java:46)
+	at org.springframework.boot.SpringApplication.withHook(SpringApplication.java:1454)
+	at org.springframework.boot.test.context.SpringBootContextLoader$ContextLoaderHook.run(SpringBootContextLoader.java:553)
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:137)
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:108)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContextInternal(DefaultCacheAwareContextLoaderDelegate.java:225)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:152)
+	... 88 common frames omitted
+Caused by: java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'feedCommentControllerImpl' method 
+com.green.greengram.feedcomment.FeedCommentControllerImpl#postComment2(PostCommentReq)
+to {POST [/api/feed/comment]}: There is already 'feedCommentControllerImpl' bean method
+com.green.greengram.feedcomment.FeedCommentControllerImpl#postComment1(PostCommentReq) mapped.
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.validateMethodMapping(AbstractHandlerMethodMapping.java:674)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register(AbstractHandlerMethodMapping.java:636)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.registerHandlerMethod(AbstractHandlerMethodMapping.java:331)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:508)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:84)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.lambda$detectHandlerMethods$2(AbstractHandlerMethodMapping.java:298)
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:721)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.detectHandlerMethods(AbstractHandlerMethodMapping.java:296)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.processCandidateBean(AbstractHandlerMethodMapping.java:265)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initHandlerMethods(AbstractHandlerMethodMapping.java:224)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.afterPropertiesSet(AbstractHandlerMethodMapping.java:212)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.afterPropertiesSet(RequestMappingHandlerMapping.java:239)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1833)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1782)
+	... 109 common frames omitted
+[2024-06-12 11:12:59 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Starting FeedCommentControllerTest using Java 17.0.10 with PID 11988 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-12 11:12:59 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-12 11:13:00 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-12 11:13:00 WARN  Test worker] [org.springframework.web.context.support.GenericWebApplicationContext] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Ambiguous mapping. Cannot map 'feedCommentControllerImpl' method 
+com.green.greengram.feedcomment.FeedCommentControllerImpl#postComment2(PostCommentReq)
+to {POST [/api/feed/comment]}: There is already 'feedCommentControllerImpl' bean method
+com.green.greengram.feedcomment.FeedCommentControllerImpl#postComment1(PostCommentReq) mapped.
+[2024-06-12 11:13:00 INFO  Test worker] [org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLogger] 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+[2024-06-12 11:13:01 ERROR Test worker] [org.springframework.boot.SpringApplication] Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Ambiguous mapping. Cannot map 'feedCommentControllerImpl' method 
+com.green.greengram.feedcomment.FeedCommentControllerImpl#postComment2(PostCommentReq)
+to {POST [/api/feed/comment]}: There is already 'feedCommentControllerImpl' bean method
+com.green.greengram.feedcomment.FeedCommentControllerImpl#postComment1(PostCommentReq) mapped.
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1786)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:600)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:975)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:962)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:624)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:334)
+	at org.springframework.boot.test.context.SpringBootContextLoader.lambda$loadContext$3(SpringBootContextLoader.java:137)
+	at org.springframework.util.function.ThrowingSupplier.get(ThrowingSupplier.java:58)
+	at org.springframework.util.function.ThrowingSupplier.get(ThrowingSupplier.java:46)
+	at org.springframework.boot.SpringApplication.withHook(SpringApplication.java:1454)
+	at org.springframework.boot.test.context.SpringBootContextLoader$ContextLoaderHook.run(SpringBootContextLoader.java:553)
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:137)
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:108)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContextInternal(DefaultCacheAwareContextLoaderDelegate.java:225)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:152)
+	at org.springframework.test.context.support.DefaultTestContext.getApplicationContext(DefaultTestContext.java:130)
+	at org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener.postProcessFields(MockitoTestExecutionListener.java:122)
+	at org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener.injectFields(MockitoTestExecutionListener.java:106)
+	at org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener.prepareTestInstance(MockitoTestExecutionListener.java:63)
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:260)
+	at org.springframework.test.context.junit.jupiter.SpringExtension.postProcessTestInstance(SpringExtension.java:163)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$10(ClassBasedTestDescriptor.java:378)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.executeAndMaskThrowable(ClassBasedTestDescriptor.java:383)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$11(ClassBasedTestDescriptor.java:378)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.StreamSpliterators$WrappingSpliterator.forEachRemaining(StreamSpliterators.java:310)
+	at java.base/java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:735)
+	at java.base/java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:734)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.invokeTestInstancePostProcessors(ClassBasedTestDescriptor.java:377)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$instantiateAndPostProcessTestInstance$6(ClassBasedTestDescriptor.java:290)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.instantiateAndPostProcessTestInstance(ClassBasedTestDescriptor.java:289)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$4(ClassBasedTestDescriptor.java:279)
+	at java.base/java.util.Optional.orElseGet(Optional.java:364)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$5(ClassBasedTestDescriptor.java:278)
+	at org.junit.jupiter.engine.execution.TestInstancesProvider.getTestInstances(TestInstancesProvider.java:31)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$prepare$0(TestMethodTestDescriptor.java:106)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:105)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:69)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$prepare$2(NodeTestTask.java:123)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.prepare(NodeTestTask.java:123)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:90)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:198)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:169)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:93)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:58)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:141)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:57)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:103)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:85)
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47)
+	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor$CollectAllTestClassesExecutor.processAllTestClasses(JUnitPlatformTestClassProcessor.java:119)
+	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor$CollectAllTestClassesExecutor.access$000(JUnitPlatformTestClassProcessor.java:94)
+	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor.stop(JUnitPlatformTestClassProcessor.java:89)
+	at org.gradle.api.internal.tasks.testing.SuiteTestClassProcessor.stop(SuiteTestClassProcessor.java:62)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+	at org.gradle.internal.dispatch.ContextClassLoaderDispatch.dispatch(ContextClassLoaderDispatch.java:33)
+	at org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:94)
+	at jdk.proxy1/jdk.proxy1.$Proxy2.stop(Unknown Source)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker$3.run(TestWorker.java:193)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.executeAndMaintainThreadName(TestWorker.java:129)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.execute(TestWorker.java:100)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.execute(TestWorker.java:60)
+	at org.gradle.process.internal.worker.child.ActionExecutionWorker.execute(ActionExecutionWorker.java:56)
+	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:113)
+	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:65)
+	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69)
+	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74)
+Caused by: java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'feedCommentControllerImpl' method 
+com.green.greengram.feedcomment.FeedCommentControllerImpl#postComment2(PostCommentReq)
+to {POST [/api/feed/comment]}: There is already 'feedCommentControllerImpl' bean method
+com.green.greengram.feedcomment.FeedCommentControllerImpl#postComment1(PostCommentReq) mapped.
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.validateMethodMapping(AbstractHandlerMethodMapping.java:674)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register(AbstractHandlerMethodMapping.java:636)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.registerHandlerMethod(AbstractHandlerMethodMapping.java:331)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:508)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:84)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.lambda$detectHandlerMethods$2(AbstractHandlerMethodMapping.java:298)
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:721)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.detectHandlerMethods(AbstractHandlerMethodMapping.java:296)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.processCandidateBean(AbstractHandlerMethodMapping.java:265)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initHandlerMethods(AbstractHandlerMethodMapping.java:224)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.afterPropertiesSet(AbstractHandlerMethodMapping.java:212)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.afterPropertiesSet(RequestMappingHandlerMapping.java:239)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1833)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1782)
+	... 109 common frames omitted
+[2024-06-12 11:13:01 WARN  Test worker] [org.springframework.test.context.TestContextManager] Caught exception while allowing TestExecutionListener [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener] to prepare test instance [com.green.greengram.feedcomment.FeedCommentControllerTest@52909a97]
+java.lang.IllegalStateException: Failed to load ApplicationContext for [WebMergedContextConfiguration@4ecd8ab1 testClass = com.green.greengram.feedcomment.FeedCommentControllerTest, locations = [], classes = [com.green.greengram.GreenGramTddApplication], contextInitializerClasses = [], activeProfiles = [], propertySourceDescriptors = [], propertySourceProperties = ["org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTestContextBootstrapper=true"], contextCustomizers = [org.springframework.boot.test.autoconfigure.OverrideAutoConfigurationContextCustomizerFactory$DisableAutoConfigurationContextCustomizer@47a5b70d, org.springframework.boot.test.autoconfigure.actuate.observability.ObservabilityContextCustomizerFactory$DisableObservabilityContextCustomizer@1f, org.springframework.boot.test.autoconfigure.filter.TypeExcludeFiltersContextCustomizer@ee691e39, org.springframework.boot.test.autoconfigure.properties.PropertyMappingContextCustomizer@e7f7b354, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverContextCustomizer@62452cc9, [ImportsContextCustomizer@57bdceaa key = [org.springframework.boot.autoconfigure.task.TaskExecutionAutoConfiguration, org.springframework.boot.autoconfigure.cache.CacheAutoConfiguration, org.springframework.boot.autoconfigure.web.servlet.HttpEncodingAutoConfiguration, org.springframework.boot.autoconfigure.validation.ValidationAutoConfiguration, org.springframework.boot.autoconfigure.context.MessageSourceAutoConfiguration, org.springframework.boot.autoconfigure.hateoas.HypermediaAutoConfiguration, org.springframework.boot.autoconfigure.data.web.SpringDataWebAutoConfiguration, org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration, org.springframework.boot.test.autoconfigure.web.reactive.WebTestClientAutoConfiguration, org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConfiguration, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcAutoConfiguration, org.springframework.boot.autoconfigure.security.servlet.SecurityAutoConfiguration, org.springframework.boot.autoconfigure.security.servlet.SecurityFilterAutoConfiguration, org.springframework.boot.autoconfigure.http.HttpMessageConvertersAutoConfiguration, org.springframework.boot.autoconfigure.security.oauth2.client.servlet.OAuth2ClientAutoConfiguration, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcSecurityConfiguration, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcWebClientAutoConfiguration, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcWebDriverAutoConfiguration, org.springframework.boot.autoconfigure.thymeleaf.ThymeleafAutoConfiguration, org.springframework.boot.autoconfigure.gson.GsonAutoConfiguration, org.springframework.boot.autoconfigure.jsonb.JsonbAutoConfiguration, org.springframework.boot.autoconfigure.freemarker.FreeMarkerAutoConfiguration, org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration, com.green.greengram.CharEncodingConfiguration, org.springframework.boot.autoconfigure.security.servlet.UserDetailsServiceAutoConfiguration, org.springframework.boot.autoconfigure.security.oauth2.resource.servlet.OAuth2ResourceServerAutoConfiguration, org.springframework.boot.autoconfigure.groovy.template.GroovyTemplateAutoConfiguration, org.springframework.boot.autoconfigure.mustache.MustacheAutoConfiguration]], org.springframework.boot.test.context.filter.ExcludeFilterContextCustomizer@3e5499cc, org.springframework.boot.test.json.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer@30bcf3c1, org.springframework.boot.test.mock.mockito.MockitoContextCustomizer@20e28bf9, org.springframework.boot.test.context.SpringBootTestAnnotation@155c46fc], resourceBasePath = "src/main/webapp", contextLoader = org.springframework.boot.test.context.SpringBootContextLoader, parent = null]
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:180)
+	at org.springframework.test.context.support.DefaultTestContext.getApplicationContext(DefaultTestContext.java:130)
+	at org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener.postProcessFields(MockitoTestExecutionListener.java:122)
+	at org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener.injectFields(MockitoTestExecutionListener.java:106)
+	at org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener.prepareTestInstance(MockitoTestExecutionListener.java:63)
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:260)
+	at org.springframework.test.context.junit.jupiter.SpringExtension.postProcessTestInstance(SpringExtension.java:163)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$10(ClassBasedTestDescriptor.java:378)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.executeAndMaskThrowable(ClassBasedTestDescriptor.java:383)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$11(ClassBasedTestDescriptor.java:378)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.StreamSpliterators$WrappingSpliterator.forEachRemaining(StreamSpliterators.java:310)
+	at java.base/java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:735)
+	at java.base/java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:734)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.invokeTestInstancePostProcessors(ClassBasedTestDescriptor.java:377)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$instantiateAndPostProcessTestInstance$6(ClassBasedTestDescriptor.java:290)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.instantiateAndPostProcessTestInstance(ClassBasedTestDescriptor.java:289)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$4(ClassBasedTestDescriptor.java:279)
+	at java.base/java.util.Optional.orElseGet(Optional.java:364)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$5(ClassBasedTestDescriptor.java:278)
+	at org.junit.jupiter.engine.execution.TestInstancesProvider.getTestInstances(TestInstancesProvider.java:31)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$prepare$0(TestMethodTestDescriptor.java:106)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:105)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:69)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$prepare$2(NodeTestTask.java:123)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.prepare(NodeTestTask.java:123)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:90)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:198)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:169)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:93)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:58)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:141)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:57)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:103)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:85)
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47)
+	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor$CollectAllTestClassesExecutor.processAllTestClasses(JUnitPlatformTestClassProcessor.java:119)
+	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor$CollectAllTestClassesExecutor.access$000(JUnitPlatformTestClassProcessor.java:94)
+	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor.stop(JUnitPlatformTestClassProcessor.java:89)
+	at org.gradle.api.internal.tasks.testing.SuiteTestClassProcessor.stop(SuiteTestClassProcessor.java:62)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+	at org.gradle.internal.dispatch.ContextClassLoaderDispatch.dispatch(ContextClassLoaderDispatch.java:33)
+	at org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:94)
+	at jdk.proxy1/jdk.proxy1.$Proxy2.stop(Unknown Source)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker$3.run(TestWorker.java:193)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.executeAndMaintainThreadName(TestWorker.java:129)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.execute(TestWorker.java:100)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.execute(TestWorker.java:60)
+	at org.gradle.process.internal.worker.child.ActionExecutionWorker.execute(ActionExecutionWorker.java:56)
+	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:113)
+	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:65)
+	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69)
+	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Ambiguous mapping. Cannot map 'feedCommentControllerImpl' method 
+com.green.greengram.feedcomment.FeedCommentControllerImpl#postComment2(PostCommentReq)
+to {POST [/api/feed/comment]}: There is already 'feedCommentControllerImpl' bean method
+com.green.greengram.feedcomment.FeedCommentControllerImpl#postComment1(PostCommentReq) mapped.
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1786)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:600)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:975)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:962)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:624)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:334)
+	at org.springframework.boot.test.context.SpringBootContextLoader.lambda$loadContext$3(SpringBootContextLoader.java:137)
+	at org.springframework.util.function.ThrowingSupplier.get(ThrowingSupplier.java:58)
+	at org.springframework.util.function.ThrowingSupplier.get(ThrowingSupplier.java:46)
+	at org.springframework.boot.SpringApplication.withHook(SpringApplication.java:1454)
+	at org.springframework.boot.test.context.SpringBootContextLoader$ContextLoaderHook.run(SpringBootContextLoader.java:553)
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:137)
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:108)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContextInternal(DefaultCacheAwareContextLoaderDelegate.java:225)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:152)
+	... 88 common frames omitted
+Caused by: java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'feedCommentControllerImpl' method 
+com.green.greengram.feedcomment.FeedCommentControllerImpl#postComment2(PostCommentReq)
+to {POST [/api/feed/comment]}: There is already 'feedCommentControllerImpl' bean method
+com.green.greengram.feedcomment.FeedCommentControllerImpl#postComment1(PostCommentReq) mapped.
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.validateMethodMapping(AbstractHandlerMethodMapping.java:674)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register(AbstractHandlerMethodMapping.java:636)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.registerHandlerMethod(AbstractHandlerMethodMapping.java:331)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:508)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:84)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.lambda$detectHandlerMethods$2(AbstractHandlerMethodMapping.java:298)
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:721)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.detectHandlerMethods(AbstractHandlerMethodMapping.java:296)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.processCandidateBean(AbstractHandlerMethodMapping.java:265)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initHandlerMethods(AbstractHandlerMethodMapping.java:224)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.afterPropertiesSet(AbstractHandlerMethodMapping.java:212)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.afterPropertiesSet(RequestMappingHandlerMapping.java:239)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1833)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1782)
+	... 109 common frames omitted
+[2024-06-12 11:15:02 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Starting FeedCommentControllerTest using Java 17.0.10 with PID 8908 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-12 11:15:02 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-12 11:15:03 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-12 11:15:03 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-12 11:15:03 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-12 11:15:03 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-12 11:15:03 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Started FeedCommentControllerTest in 1.692 seconds (process running for 2.507)
+[2024-06-12 11:16:13 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Starting FeedCommentControllerTest using Java 17.0.10 with PID 11980 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-12 11:16:13 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-12 11:16:14 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-12 11:16:15 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-12 11:16:15 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-12 11:16:15 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-12 11:16:15 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Started FeedCommentControllerTest in 1.702 seconds (process running for 2.509)
+[2024-06-12 11:16:15 WARN  Test worker] [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver] Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+[2024-06-12 11:16:53 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Starting FeedCommentControllerTest using Java 17.0.10 with PID 3952 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-12 11:16:53 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-12 11:16:54 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-12 11:16:54 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-12 11:16:54 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-12 11:16:54 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-12 11:16:54 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Started FeedCommentControllerTest in 1.675 seconds (process running for 2.508)
+[2024-06-12 11:16:54 WARN  Test worker] [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver] Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+[2024-06-12 11:18:08 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Starting FeedCommentControllerTest using Java 17.0.10 with PID 8016 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-12 11:18:08 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-12 11:18:10 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-12 11:18:10 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-12 11:18:10 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-12 11:18:10 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-12 11:18:10 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Started FeedCommentControllerTest in 1.679 seconds (process running for 2.497)
+[2024-06-12 11:18:10 WARN  Test worker] [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver] Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+[2024-06-12 11:20:14 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Starting FeedCommentControllerTest using Java 17.0.10 with PID 11516 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-12 11:20:14 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-12 11:20:15 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-12 11:20:15 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-12 11:20:15 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-12 11:20:15 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-12 11:20:15 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Started FeedCommentControllerTest in 1.692 seconds (process running for 2.535)
+[2024-06-12 11:20:16 WARN  Test worker] [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver] Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+[2024-06-12 11:20:40 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Starting FeedCommentControllerTest using Java 17.0.10 with PID 788 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-12 11:20:40 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-12 11:20:41 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-12 11:20:42 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-12 11:20:42 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-12 11:20:42 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-12 11:20:42 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Started FeedCommentControllerTest in 1.694 seconds (process running for 2.513)
+[2024-06-12 11:20:42 WARN  Test worker] [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver] Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+[2024-06-12 11:21:41 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Starting FeedCommentControllerTest using Java 17.0.10 with PID 6268 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-12 11:21:41 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-12 11:21:42 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-12 11:21:42 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-12 11:21:42 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-12 11:21:42 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-12 11:21:42 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Started FeedCommentControllerTest in 1.689 seconds (process running for 2.494)
+[2024-06-12 11:21:42 WARN  Test worker] [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver] Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+[2024-06-12 11:23:36 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Starting FeedCommentControllerTest using Java 17.0.10 with PID 11052 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-12 11:23:36 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-12 11:23:37 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-12 11:23:37 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-12 11:23:37 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-12 11:23:37 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-12 11:23:37 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Started FeedCommentControllerTest in 1.658 seconds (process running for 2.478)
+[2024-06-12 11:23:55 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Starting FeedCommentControllerTest using Java 17.0.10 with PID 9348 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-12 11:23:55 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-12 11:23:56 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-12 11:23:57 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-12 11:23:57 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-12 11:23:57 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-12 11:23:57 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Started FeedCommentControllerTest in 1.675 seconds (process running for 2.5)
+[2024-06-12 11:24:21 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Starting FeedCommentControllerTest using Java 17.0.10 with PID 5556 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-12 11:24:21 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-12 11:24:23 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-12 11:24:23 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-12 11:24:23 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-12 11:24:23 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-12 11:24:23 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Started FeedCommentControllerTest in 1.691 seconds (process running for 2.529)
+[2024-06-12 11:25:17 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Starting FeedCommentControllerTest using Java 17.0.10 with PID 11580 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-12 11:25:17 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-12 11:25:18 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-12 11:25:18 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-12 11:25:18 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-12 11:25:18 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-12 11:25:18 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Started FeedCommentControllerTest in 1.659 seconds (process running for 2.473)
+[2024-06-12 11:25:29 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Starting FeedCommentControllerTest using Java 17.0.10 with PID 6376 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-12 11:25:29 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-12 11:25:30 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-12 11:25:30 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-12 11:25:30 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-12 11:25:30 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-12 11:25:30 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Started FeedCommentControllerTest in 1.678 seconds (process running for 2.501)
+[2024-06-12 11:25:48 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Starting FeedCommentControllerTest using Java 17.0.10 with PID 11792 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-12 11:25:48 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-12 11:25:49 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-12 11:25:50 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-12 11:25:50 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-12 11:25:50 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-12 11:25:50 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Started FeedCommentControllerTest in 1.664 seconds (process running for 2.478)
+[2024-06-12 11:30:41 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Starting FeedCommentControllerTest using Java 17.0.10 with PID 2000 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-12 11:30:41 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-12 11:30:42 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-12 11:30:42 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-12 11:30:42 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-12 11:30:42 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-12 11:30:42 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Started FeedCommentControllerTest in 1.654 seconds (process running for 2.489)
+[2024-06-12 11:38:49 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Starting FeedCommentControllerTest using Java 17.0.10 with PID 5080 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-12 11:38:49 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-12 11:38:50 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-12 11:38:50 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-12 11:38:50 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-12 11:38:50 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-12 11:38:50 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Started FeedCommentControllerTest in 1.682 seconds (process running for 2.503)
+[2024-06-12 11:40:24 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Starting FeedCommentControllerTest using Java 17.0.10 with PID 5528 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-12 11:40:24 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-12 11:40:25 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-12 11:40:26 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-12 11:40:26 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-12 11:40:26 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-12 11:40:26 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Started FeedCommentControllerTest in 1.688 seconds (process running for 2.502)
+[2024-06-12 11:41:10 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Starting FeedCommentControllerTest using Java 17.0.10 with PID 10100 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-12 11:41:10 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-12 11:41:11 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-12 11:41:11 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-12 11:41:11 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-12 11:41:11 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-12 11:41:11 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Started FeedCommentControllerTest in 1.724 seconds (process running for 2.551)
+[2024-06-12 11:41:37 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Starting FeedCommentControllerTest using Java 17.0.10 with PID 11984 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-12 11:41:37 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-12 11:41:38 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-12 11:41:38 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-12 11:41:38 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-12 11:41:38 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-12 11:41:38 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Started FeedCommentControllerTest in 1.689 seconds (process running for 2.505)
+[2024-06-12 11:44:15 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Starting FeedCommentControllerTest using Java 17.0.10 with PID 696 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-12 11:44:15 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-12 11:44:16 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-12 11:44:16 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-12 11:44:16 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-12 11:44:16 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-12 11:44:16 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Started FeedCommentControllerTest in 1.678 seconds (process running for 2.494)
+[2024-06-12 11:46:03 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Starting FeedCommentControllerTest using Java 17.0.10 with PID 12068 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-12 11:46:03 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-12 11:46:04 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-12 11:46:04 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-12 11:46:04 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-12 11:46:04 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-12 11:46:04 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Started FeedCommentControllerTest in 1.679 seconds (process running for 2.467)
+[2024-06-12 11:48:19 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Starting FeedCommentControllerTest using Java 17.0.10 with PID 5256 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-12 11:48:19 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-12 11:48:21 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-12 11:48:21 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-12 11:48:21 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-12 11:48:21 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-12 11:48:21 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Started FeedCommentControllerTest in 1.667 seconds (process running for 2.514)
+[2024-06-12 11:49:17 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Starting FeedCommentControllerTest using Java 17.0.10 with PID 5912 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-12 11:49:17 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-12 11:49:19 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-12 11:49:19 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-12 11:49:19 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-12 11:49:19 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-12 11:49:19 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Started FeedCommentControllerTest in 1.661 seconds (process running for 2.485)
+[2024-06-12 11:50:00 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Starting FeedCommentControllerTest using Java 17.0.10 with PID 11284 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-12 11:50:00 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-12 11:50:01 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-12 11:50:01 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-12 11:50:01 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-12 11:50:01 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-12 11:50:01 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Started FeedCommentControllerTest in 1.666 seconds (process running for 2.499)
+[2024-06-12 11:50:48 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Starting FeedCommentControllerTest using Java 17.0.10 with PID 10972 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-12 11:50:48 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-12 11:50:49 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-12 11:50:49 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-12 11:50:49 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-12 11:50:49 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-12 11:50:49 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Started FeedCommentControllerTest in 1.708 seconds (process running for 2.532)
+[2024-06-12 11:52:06 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Starting FeedCommentControllerTest using Java 17.0.10 with PID 5440 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-12 11:52:06 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-12 11:52:07 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-12 11:52:08 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-12 11:52:08 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-12 11:52:08 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-12 11:52:08 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Started FeedCommentControllerTest in 1.668 seconds (process running for 2.492)
+[2024-06-12 11:55:56 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Starting FeedCommentControllerTest using Java 17.0.10 with PID 3984 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-12 11:55:56 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-12 11:55:57 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-12 11:55:57 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-12 11:55:57 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-12 11:55:57 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-12 11:55:57 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Started FeedCommentControllerTest in 1.753 seconds (process running for 2.601)
+[2024-06-12 11:57:37 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Starting FeedCommentControllerTest using Java 17.0.10 with PID 6200 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-12 11:57:37 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-12 11:57:38 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-12 11:57:38 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-12 11:57:38 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-12 11:57:38 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-12 11:57:38 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Started FeedCommentControllerTest in 1.65 seconds (process running for 2.464)
+[2024-06-12 12:01:21 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Starting FeedCommentControllerTest using Java 17.0.10 with PID 5768 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-12 12:01:21 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-12 12:01:22 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-12 12:01:22 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-12 12:01:22 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-12 12:01:22 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-12 12:01:22 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Started FeedCommentControllerTest in 1.699 seconds (process running for 2.507)
+[2024-06-12 12:01:55 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Starting FeedCommentControllerTest using Java 17.0.10 with PID 5312 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-12 12:01:55 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-12 12:01:56 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-12 12:01:56 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-12 12:01:56 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-12 12:01:56 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-12 12:01:56 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Started FeedCommentControllerTest in 1.651 seconds (process running for 2.462)
+[2024-06-12 12:12:05 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Starting FeedCommentControllerTest using Java 17.0.10 with PID 1136 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-12 12:12:05 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-12 12:12:06 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-12 12:12:06 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-12 12:12:06 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-12 12:12:06 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-12 12:12:06 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Started FeedCommentControllerTest in 1.684 seconds (process running for 2.524)
+[2024-06-12 12:12:30 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Starting FeedCommentControllerTest using Java 17.0.10 with PID 8708 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-12 12:12:30 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-12 12:12:31 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-12 12:12:31 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-12 12:12:31 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-12 12:12:31 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-12 12:12:31 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Started FeedCommentControllerTest in 1.664 seconds (process running for 2.468)
+[2024-06-12 12:51:02 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Starting FeedCommentControllerTest using Java 17.0.10 with PID 7720 (started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)
+[2024-06-12 12:51:02 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-06-12 12:51:03 INFO  Test worker] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-06-12 12:51:03 INFO  Test worker] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-06-12 12:51:03 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-06-12 12:51:03 INFO  Test worker] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-06-12 12:51:03 INFO  Test worker] [com.green.greengram.feedcomment.FeedCommentControllerTest] Started FeedCommentControllerTest in 1.659 seconds (process running for 2.479)
+[2024-06-12 13:09:59 [32mINFO [0;39m main] [com.green.greengram.GreenGramTddApplication] [36mStarting GreenGramTddApplication using Java 17.0.10 with PID 12100 (D:\Students\MJ\backEnd\GreenGramTdd\build\classes\java\main started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)[0;39m
+[2024-06-12 13:09:59 [32mINFO [0;39m main] [com.green.greengram.GreenGramTddApplication] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2024-06-12 13:10:00 [32mINFO [0;39m main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2024-06-12 13:10:00 [32mINFO [0;39m main] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2024-06-12 13:10:00 [32mINFO [0;39m main] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2024-06-12 13:10:00 [32mINFO [0;39m main] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.20][0;39m
+[2024-06-12 13:10:00 [32mINFO [0;39m main] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2024-06-12 13:10:00 [32mINFO [0;39m main] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 957 ms[0;39m
+[2024-06-12 13:10:00 [32mINFO [0;39m main] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Starting...[0;39m
+[2024-06-12 13:10:01 [32mINFO [0;39m main] [com.zaxxer.hikari.pool.HikariPool] [36mHikariPool-1 - Added connection net.sf.log4jdbc.sql.jdbcapi.ConnectionSpy@1689527c[0;39m
+[2024-06-12 13:10:01 [32mINFO [0;39m main] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Start completed.[0;39m
+[2024-06-12 13:10:01 [32mINFO [0;39m main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] [36mAdding welcome page: class path resource [static/index.html][0;39m
+[2024-06-12 13:10:01 [32mINFO [0;39m main] [org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver] [36mExposing 1 endpoint(s) beneath base path '/actuator'[0;39m
+[2024-06-12 13:10:01 [32mINFO [0;39m main] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
+[2024-06-12 13:10:01 [32mINFO [0;39m main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
+[2024-06-12 13:10:01 [32mINFO [0;39m main] [com.green.greengram.GreenGramTddApplication] [36mStarted GreenGramTddApplication in 2.17 seconds (process running for 2.498)[0;39m
+[2024-06-12 13:10:02 [32mINFO [0;39m RMI TCP Connection(3)-192.168.0.207] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring DispatcherServlet 'dispatcherServlet'[0;39m
+[2024-06-12 13:10:02 [32mINFO [0;39m RMI TCP Connection(3)-192.168.0.207] [org.springframework.web.servlet.DispatcherServlet] [36mInitializing Servlet 'dispatcherServlet'[0;39m
+[2024-06-12 13:10:02 [32mINFO [0;39m RMI TCP Connection(3)-192.168.0.207] [org.springframework.web.servlet.DispatcherServlet] [36mCompleted initialization in 1 ms[0;39m
+[2024-06-12 13:10:10 [32mINFO [0;39m http-nio-8080-exec-9] [org.springdoc.api.AbstractOpenApiResource] [36mInit duration for springdoc-openapi is: 245 ms[0;39m
+[2024-06-12 13:11:29 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown initiated...[0;39m
+[2024-06-12 13:11:29 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown completed.[0;39m
+[2024-06-12 13:11:31 [32mINFO [0;39m main] [com.green.greengram.GreenGramTddApplication] [36mStarting GreenGramTddApplication using Java 17.0.10 with PID 5280 (D:\Students\MJ\backEnd\GreenGramTdd\build\classes\java\main started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)[0;39m
+[2024-06-12 13:11:31 [32mINFO [0;39m main] [com.green.greengram.GreenGramTddApplication] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2024-06-12 13:11:32 [32mINFO [0;39m main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2024-06-12 13:11:32 [32mINFO [0;39m main] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2024-06-12 13:11:32 [32mINFO [0;39m main] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2024-06-12 13:11:32 [32mINFO [0;39m main] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.20][0;39m
+[2024-06-12 13:11:32 [32mINFO [0;39m main] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2024-06-12 13:11:32 [32mINFO [0;39m main] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 856 ms[0;39m
+[2024-06-12 13:11:32 [32mINFO [0;39m main] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Starting...[0;39m
+[2024-06-12 13:11:32 [32mINFO [0;39m main] [com.zaxxer.hikari.pool.HikariPool] [36mHikariPool-1 - Added connection net.sf.log4jdbc.sql.jdbcapi.ConnectionSpy@5940b14e[0;39m
+[2024-06-12 13:11:32 [32mINFO [0;39m main] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Start completed.[0;39m
+[2024-06-12 13:11:32 [32mINFO [0;39m main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] [36mAdding welcome page: class path resource [static/index.html][0;39m
+[2024-06-12 13:11:32 [32mINFO [0;39m main] [org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver] [36mExposing 1 endpoint(s) beneath base path '/actuator'[0;39m
+[2024-06-12 13:11:32 [32mINFO [0;39m main] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
+[2024-06-12 13:11:32 [32mINFO [0;39m main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
+[2024-06-12 13:11:32 [32mINFO [0;39m main] [com.green.greengram.GreenGramTddApplication] [36mStarted GreenGramTddApplication in 1.968 seconds (process running for 2.268)[0;39m
+[2024-06-12 13:11:33 [32mINFO [0;39m RMI TCP Connection(1)-192.168.0.207] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring DispatcherServlet 'dispatcherServlet'[0;39m
+[2024-06-12 13:11:33 [32mINFO [0;39m RMI TCP Connection(1)-192.168.0.207] [org.springframework.web.servlet.DispatcherServlet] [36mInitializing Servlet 'dispatcherServlet'[0;39m
+[2024-06-12 13:11:33 [32mINFO [0;39m RMI TCP Connection(1)-192.168.0.207] [org.springframework.web.servlet.DispatcherServlet] [36mCompleted initialization in 1 ms[0;39m
+[2024-06-12 13:11:39 [32mINFO [0;39m http-nio-8080-exec-2] [org.springdoc.api.AbstractOpenApiResource] [36mInit duration for springdoc-openapi is: 235 ms[0;39m
+[2024-06-12 13:14:57 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown initiated...[0;39m
+[2024-06-12 13:14:57 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown completed.[0;39m
+[2024-06-12 13:14:59 [32mINFO [0;39m main] [com.green.greengram.GreenGramTddApplication] [36mStarting GreenGramTddApplication using Java 17.0.10 with PID 10236 (D:\Students\MJ\backEnd\GreenGramTdd\build\classes\java\main started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)[0;39m
+[2024-06-12 13:14:59 [32mINFO [0;39m main] [com.green.greengram.GreenGramTddApplication] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2024-06-12 13:15:00 [32mINFO [0;39m main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2024-06-12 13:15:00 [32mINFO [0;39m main] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2024-06-12 13:15:00 [32mINFO [0;39m main] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2024-06-12 13:15:00 [32mINFO [0;39m main] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.20][0;39m
+[2024-06-12 13:15:00 [32mINFO [0;39m main] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2024-06-12 13:15:00 [32mINFO [0;39m main] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 871 ms[0;39m
+[2024-06-12 13:15:00 [32mINFO [0;39m main] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Starting...[0;39m
+[2024-06-12 13:15:00 [32mINFO [0;39m main] [com.zaxxer.hikari.pool.HikariPool] [36mHikariPool-1 - Added connection net.sf.log4jdbc.sql.jdbcapi.ConnectionSpy@1883871b[0;39m
+[2024-06-12 13:15:00 [32mINFO [0;39m main] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Start completed.[0;39m
+[2024-06-12 13:15:00 [32mINFO [0;39m main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] [36mAdding welcome page: class path resource [static/index.html][0;39m
+[2024-06-12 13:15:01 [32mINFO [0;39m main] [org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver] [36mExposing 1 endpoint(s) beneath base path '/actuator'[0;39m
+[2024-06-12 13:15:01 [32mINFO [0;39m main] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
+[2024-06-12 13:15:01 [32mINFO [0;39m main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
+[2024-06-12 13:15:01 [32mINFO [0;39m main] [com.green.greengram.GreenGramTddApplication] [36mStarted GreenGramTddApplication in 1.987 seconds (process running for 2.293)[0;39m
+[2024-06-12 13:15:01 [32mINFO [0;39m RMI TCP Connection(2)-192.168.0.207] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring DispatcherServlet 'dispatcherServlet'[0;39m
+[2024-06-12 13:15:01 [32mINFO [0;39m RMI TCP Connection(2)-192.168.0.207] [org.springframework.web.servlet.DispatcherServlet] [36mInitializing Servlet 'dispatcherServlet'[0;39m
+[2024-06-12 13:15:01 [32mINFO [0;39m RMI TCP Connection(2)-192.168.0.207] [org.springframework.web.servlet.DispatcherServlet] [36mCompleted initialization in 1 ms[0;39m
+[2024-06-12 13:15:06 [32mINFO [0;39m http-nio-8080-exec-2] [org.springdoc.api.AbstractOpenApiResource] [36mInit duration for springdoc-openapi is: 237 ms[0;39m
+[2024-06-12 13:15:51 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown initiated...[0;39m
+[2024-06-12 13:15:51 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown completed.[0;39m
+[2024-06-12 13:15:53 [32mINFO [0;39m main] [com.green.greengram.GreenGramTddApplication] [36mStarting GreenGramTddApplication using Java 17.0.10 with PID 7760 (D:\Students\MJ\backEnd\GreenGramTdd\build\classes\java\main started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)[0;39m
+[2024-06-12 13:15:53 [32mINFO [0;39m main] [com.green.greengram.GreenGramTddApplication] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2024-06-12 13:15:54 [32mINFO [0;39m main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2024-06-12 13:15:54 [32mINFO [0;39m main] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2024-06-12 13:15:54 [32mINFO [0;39m main] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2024-06-12 13:15:54 [32mINFO [0;39m main] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.20][0;39m
+[2024-06-12 13:15:54 [32mINFO [0;39m main] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2024-06-12 13:15:54 [32mINFO [0;39m main] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 891 ms[0;39m
+[2024-06-12 13:15:54 [32mINFO [0;39m main] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Starting...[0;39m
+[2024-06-12 13:15:54 [32mINFO [0;39m main] [com.zaxxer.hikari.pool.HikariPool] [36mHikariPool-1 - Added connection net.sf.log4jdbc.sql.jdbcapi.ConnectionSpy@1b409a79[0;39m
+[2024-06-12 13:15:54 [32mINFO [0;39m main] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Start completed.[0;39m
+[2024-06-12 13:15:54 [32mINFO [0;39m main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] [36mAdding welcome page: class path resource [static/index.html][0;39m
+[2024-06-12 13:15:55 [32mINFO [0;39m main] [org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver] [36mExposing 1 endpoint(s) beneath base path '/actuator'[0;39m
+[2024-06-12 13:15:55 [32mINFO [0;39m main] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
+[2024-06-12 13:15:55 [32mINFO [0;39m main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
+[2024-06-12 13:15:55 [32mINFO [0;39m main] [com.green.greengram.GreenGramTddApplication] [36mStarted GreenGramTddApplication in 2.036 seconds (process running for 2.354)[0;39m
+[2024-06-12 13:15:55 [32mINFO [0;39m RMI TCP Connection(1)-192.168.0.207] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring DispatcherServlet 'dispatcherServlet'[0;39m
+[2024-06-12 13:15:55 [32mINFO [0;39m RMI TCP Connection(1)-192.168.0.207] [org.springframework.web.servlet.DispatcherServlet] [36mInitializing Servlet 'dispatcherServlet'[0;39m
+[2024-06-12 13:15:55 [32mINFO [0;39m RMI TCP Connection(1)-192.168.0.207] [org.springframework.web.servlet.DispatcherServlet] [36mCompleted initialization in 2 ms[0;39m
+[2024-06-12 13:15:55 [32mINFO [0;39m http-nio-8080-exec-5] [org.springdoc.api.AbstractOpenApiResource] [36mInit duration for springdoc-openapi is: 238 ms[0;39m
+[2024-06-12 13:16:22 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown initiated...[0;39m
+[2024-06-12 13:16:22 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown completed.[0;39m
+[2024-06-12 13:16:24 [32mINFO [0;39m main] [com.green.greengram.GreenGramTddApplication] [36mStarting GreenGramTddApplication using Java 17.0.10 with PID 6428 (D:\Students\MJ\backEnd\GreenGramTdd\build\classes\java\main started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)[0;39m
+[2024-06-12 13:16:24 [32mINFO [0;39m main] [com.green.greengram.GreenGramTddApplication] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2024-06-12 13:16:25 [32mINFO [0;39m main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2024-06-12 13:16:25 [32mINFO [0;39m main] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2024-06-12 13:16:25 [32mINFO [0;39m main] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2024-06-12 13:16:25 [32mINFO [0;39m main] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.20][0;39m
+[2024-06-12 13:16:25 [32mINFO [0;39m main] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2024-06-12 13:16:25 [32mINFO [0;39m main] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 888 ms[0;39m
+[2024-06-12 13:16:25 [32mINFO [0;39m main] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Starting...[0;39m
+[2024-06-12 13:16:25 [32mINFO [0;39m main] [com.zaxxer.hikari.pool.HikariPool] [36mHikariPool-1 - Added connection net.sf.log4jdbc.sql.jdbcapi.ConnectionSpy@3271ec2a[0;39m
+[2024-06-12 13:16:25 [32mINFO [0;39m main] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Start completed.[0;39m
+[2024-06-12 13:16:26 [32mINFO [0;39m main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] [36mAdding welcome page: class path resource [static/index.html][0;39m
+[2024-06-12 13:16:26 [32mINFO [0;39m main] [org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver] [36mExposing 1 endpoint(s) beneath base path '/actuator'[0;39m
+[2024-06-12 13:16:26 [32mINFO [0;39m main] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
+[2024-06-12 13:16:26 [32mINFO [0;39m main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
+[2024-06-12 13:16:26 [32mINFO [0;39m main] [com.green.greengram.GreenGramTddApplication] [36mStarted GreenGramTddApplication in 2.009 seconds (process running for 2.316)[0;39m
+[2024-06-12 13:16:26 [32mINFO [0;39m RMI TCP Connection(1)-192.168.0.207] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring DispatcherServlet 'dispatcherServlet'[0;39m
+[2024-06-12 13:16:26 [32mINFO [0;39m RMI TCP Connection(1)-192.168.0.207] [org.springframework.web.servlet.DispatcherServlet] [36mInitializing Servlet 'dispatcherServlet'[0;39m
+[2024-06-12 13:16:26 [32mINFO [0;39m RMI TCP Connection(1)-192.168.0.207] [org.springframework.web.servlet.DispatcherServlet] [36mCompleted initialization in 1 ms[0;39m
+[2024-06-12 13:16:28 [32mINFO [0;39m http-nio-8080-exec-4] [org.springdoc.api.AbstractOpenApiResource] [36mInit duration for springdoc-openapi is: 235 ms[0;39m
+[2024-06-12 13:16:31 [32mINFO [0;39m http-nio-8080-exec-3] [org.springdoc.api.AbstractOpenApiResource] [36mInit duration for springdoc-openapi is: 90 ms[0;39m
+[2024-06-12 13:16:59 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown initiated...[0;39m
+[2024-06-12 13:16:59 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown completed.[0;39m
+[2024-06-12 13:17:01 [32mINFO [0;39m main] [com.green.greengram.GreenGramTddApplication] [36mStarting GreenGramTddApplication using Java 17.0.10 with PID 2780 (D:\Students\MJ\backEnd\GreenGramTdd\build\classes\java\main started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)[0;39m
+[2024-06-12 13:17:01 [32mINFO [0;39m main] [com.green.greengram.GreenGramTddApplication] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2024-06-12 13:17:02 [32mINFO [0;39m main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2024-06-12 13:17:02 [32mINFO [0;39m main] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2024-06-12 13:17:02 [32mINFO [0;39m main] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2024-06-12 13:17:02 [32mINFO [0;39m main] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.20][0;39m
+[2024-06-12 13:17:02 [32mINFO [0;39m main] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2024-06-12 13:17:02 [32mINFO [0;39m main] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 868 ms[0;39m
+[2024-06-12 13:17:02 [32mINFO [0;39m main] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Starting...[0;39m
+[2024-06-12 13:17:02 [32mINFO [0;39m main] [com.zaxxer.hikari.pool.HikariPool] [36mHikariPool-1 - Added connection net.sf.log4jdbc.sql.jdbcapi.ConnectionSpy@1883871b[0;39m
+[2024-06-12 13:17:02 [32mINFO [0;39m main] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Start completed.[0;39m
+[2024-06-12 13:17:02 [32mINFO [0;39m main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] [36mAdding welcome page: class path resource [static/index.html][0;39m
+[2024-06-12 13:17:03 [32mINFO [0;39m main] [org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver] [36mExposing 1 endpoint(s) beneath base path '/actuator'[0;39m
+[2024-06-12 13:17:03 [32mINFO [0;39m main] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
+[2024-06-12 13:17:03 [32mINFO [0;39m main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
+[2024-06-12 13:17:03 [32mINFO [0;39m main] [com.green.greengram.GreenGramTddApplication] [36mStarted GreenGramTddApplication in 1.979 seconds (process running for 2.282)[0;39m
+[2024-06-12 13:17:03 [32mINFO [0;39m RMI TCP Connection(1)-192.168.0.207] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring DispatcherServlet 'dispatcherServlet'[0;39m
+[2024-06-12 13:17:03 [32mINFO [0;39m RMI TCP Connection(1)-192.168.0.207] [org.springframework.web.servlet.DispatcherServlet] [36mInitializing Servlet 'dispatcherServlet'[0;39m
+[2024-06-12 13:17:03 [32mINFO [0;39m RMI TCP Connection(1)-192.168.0.207] [org.springframework.web.servlet.DispatcherServlet] [36mCompleted initialization in 1 ms[0;39m
+[2024-06-12 13:17:10 [32mINFO [0;39m http-nio-8080-exec-8] [org.springdoc.api.AbstractOpenApiResource] [36mInit duration for springdoc-openapi is: 241 ms[0;39m
+[2024-06-12 13:20:35 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown initiated...[0;39m
+[2024-06-12 13:20:35 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown completed.[0;39m
+[2024-06-12 14:17:35 [32mINFO [0;39m main] [com.green.greengram.GreenGramTddApplication] [36mStarting GreenGramTddApplication using Java 17.0.10 with PID 6968 (D:\Students\MJ\backEnd\GreenGramTdd\build\classes\java\main started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)[0;39m
+[2024-06-12 14:17:35 [32mINFO [0;39m main] [com.green.greengram.GreenGramTddApplication] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2024-06-12 14:17:36 [32mINFO [0;39m main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2024-06-12 14:17:36 [32mINFO [0;39m main] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2024-06-12 14:17:36 [32mINFO [0;39m main] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2024-06-12 14:17:36 [32mINFO [0;39m main] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.20][0;39m
+[2024-06-12 14:17:36 [32mINFO [0;39m main] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2024-06-12 14:17:36 [32mINFO [0;39m main] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 1058 ms[0;39m
+[2024-06-12 14:17:36 [32mINFO [0;39m main] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Starting...[0;39m
+[2024-06-12 14:17:36 [32mINFO [0;39m main] [com.zaxxer.hikari.pool.HikariPool] [36mHikariPool-1 - Added connection net.sf.log4jdbc.sql.jdbcapi.ConnectionSpy@65d9e72a[0;39m
+[2024-06-12 14:17:36 [32mINFO [0;39m main] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Start completed.[0;39m
+[2024-06-12 14:17:36 [32mINFO [0;39m main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] [36mAdding welcome page: class path resource [static/index.html][0;39m
+[2024-06-12 14:17:37 [32mINFO [0;39m main] [org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver] [36mExposing 1 endpoint(s) beneath base path '/actuator'[0;39m
+[2024-06-12 14:17:37 [32mINFO [0;39m main] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
+[2024-06-12 14:17:37 [32mINFO [0;39m main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
+[2024-06-12 14:17:37 [32mINFO [0;39m main] [com.green.greengram.GreenGramTddApplication] [36mStarted GreenGramTddApplication in 2.405 seconds (process running for 2.901)[0;39m
+[2024-06-12 14:17:37 [32mINFO [0;39m RMI TCP Connection(2)-192.168.0.207] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring DispatcherServlet 'dispatcherServlet'[0;39m
+[2024-06-12 14:17:37 [32mINFO [0;39m RMI TCP Connection(2)-192.168.0.207] [org.springframework.web.servlet.DispatcherServlet] [36mInitializing Servlet 'dispatcherServlet'[0;39m
+[2024-06-12 14:17:37 [32mINFO [0;39m RMI TCP Connection(2)-192.168.0.207] [org.springframework.web.servlet.DispatcherServlet] [36mCompleted initialization in 2 ms[0;39m
+[2024-06-12 14:17:39 [32mINFO [0;39m http-nio-8080-exec-4] [org.springdoc.api.AbstractOpenApiResource] [36mInit duration for springdoc-openapi is: 238 ms[0;39m
+[2024-06-12 14:18:02 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown initiated...[0;39m
+[2024-06-12 14:18:02 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown completed.[0;39m
+[2024-06-12 14:18:04 [32mINFO [0;39m main] [com.green.greengram.GreenGramTddApplication] [36mStarting GreenGramTddApplication using Java 17.0.10 with PID 9016 (D:\Students\MJ\backEnd\GreenGramTdd\build\classes\java\main started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)[0;39m
+[2024-06-12 14:18:04 [32mINFO [0;39m main] [com.green.greengram.GreenGramTddApplication] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2024-06-12 14:18:05 [32mINFO [0;39m main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2024-06-12 14:18:05 [32mINFO [0;39m main] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2024-06-12 14:18:05 [32mINFO [0;39m main] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2024-06-12 14:18:05 [32mINFO [0;39m main] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.20][0;39m
+[2024-06-12 14:18:05 [32mINFO [0;39m main] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2024-06-12 14:18:05 [32mINFO [0;39m main] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 894 ms[0;39m
+[2024-06-12 14:18:05 [32mINFO [0;39m main] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Starting...[0;39m
+[2024-06-12 14:18:05 [32mINFO [0;39m main] [com.zaxxer.hikari.pool.HikariPool] [36mHikariPool-1 - Added connection net.sf.log4jdbc.sql.jdbcapi.ConnectionSpy@4e3283f6[0;39m
+[2024-06-12 14:18:05 [32mINFO [0;39m main] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Start completed.[0;39m
+[2024-06-12 14:18:05 [32mINFO [0;39m main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] [36mAdding welcome page: class path resource [static/index.html][0;39m
+[2024-06-12 14:18:05 [32mINFO [0;39m main] [org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver] [36mExposing 1 endpoint(s) beneath base path '/actuator'[0;39m
+[2024-06-12 14:18:06 [32mINFO [0;39m main] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
+[2024-06-12 14:18:06 [32mINFO [0;39m main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
+[2024-06-12 14:18:06 [32mINFO [0;39m main] [com.green.greengram.GreenGramTddApplication] [36mStarted GreenGramTddApplication in 2.047 seconds (process running for 2.353)[0;39m
+[2024-06-12 14:18:06 [32mINFO [0;39m RMI TCP Connection(2)-192.168.0.207] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring DispatcherServlet 'dispatcherServlet'[0;39m
+[2024-06-12 14:18:06 [32mINFO [0;39m RMI TCP Connection(2)-192.168.0.207] [org.springframework.web.servlet.DispatcherServlet] [36mInitializing Servlet 'dispatcherServlet'[0;39m
+[2024-06-12 14:18:06 [32mINFO [0;39m RMI TCP Connection(2)-192.168.0.207] [org.springframework.web.servlet.DispatcherServlet] [36mCompleted initialization in 2 ms[0;39m
+[2024-06-12 14:18:07 [32mINFO [0;39m http-nio-8080-exec-2] [org.springdoc.api.AbstractOpenApiResource] [36mInit duration for springdoc-openapi is: 237 ms[0;39m
+[2024-06-12 14:49:59 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown initiated...[0;39m
+[2024-06-12 14:49:59 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown completed.[0;39m
+[2024-06-12 14:50:01 [32mINFO [0;39m main] [com.green.greengram.GreenGramTddApplication] [36mStarting GreenGramTddApplication using Java 17.0.10 with PID 11728 (D:\Students\MJ\backEnd\GreenGramTdd\build\classes\java\main started by Administrator in D:\Students\MJ\backEnd\GreenGramTdd)[0;39m
+[2024-06-12 14:50:01 [32mINFO [0;39m main] [com.green.greengram.GreenGramTddApplication] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2024-06-12 14:50:02 [32mINFO [0;39m main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2024-06-12 14:50:02 [32mINFO [0;39m main] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2024-06-12 14:50:02 [32mINFO [0;39m main] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2024-06-12 14:50:02 [32mINFO [0;39m main] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.20][0;39m
+[2024-06-12 14:50:02 [32mINFO [0;39m main] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2024-06-12 14:50:02 [32mINFO [0;39m main] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 885 ms[0;39m
+[2024-06-12 14:50:02 [32mINFO [0;39m main] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Starting...[0;39m
+[2024-06-12 14:50:02 [32mINFO [0;39m main] [com.zaxxer.hikari.pool.HikariPool] [36mHikariPool-1 - Added connection net.sf.log4jdbc.sql.jdbcapi.ConnectionSpy@1c7cd434[0;39m
+[2024-06-12 14:50:02 [32mINFO [0;39m main] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Start completed.[0;39m
+[2024-06-12 14:50:02 [32mINFO [0;39m main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] [36mAdding welcome page: class path resource [static/index.html][0;39m
+[2024-06-12 14:50:03 [32mINFO [0;39m main] [org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver] [36mExposing 1 endpoint(s) beneath base path '/actuator'[0;39m
+[2024-06-12 14:50:03 [32mINFO [0;39m main] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
+[2024-06-12 14:50:03 [32mINFO [0;39m main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
+[2024-06-12 14:50:03 [32mINFO [0;39m main] [com.green.greengram.GreenGramTddApplication] [36mStarted GreenGramTddApplication in 2.078 seconds (process running for 2.385)[0;39m
+[2024-06-12 14:50:03 [32mINFO [0;39m RMI TCP Connection(2)-192.168.0.207] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring DispatcherServlet 'dispatcherServlet'[0;39m
+[2024-06-12 14:50:03 [32mINFO [0;39m RMI TCP Connection(2)-192.168.0.207] [org.springframework.web.servlet.DispatcherServlet] [36mInitializing Servlet 'dispatcherServlet'[0;39m
+[2024-06-12 14:50:03 [32mINFO [0;39m RMI TCP Connection(2)-192.168.0.207] [org.springframework.web.servlet.DispatcherServlet] [36mCompleted initialization in 1 ms[0;39m
+[2024-06-12 14:50:07 [32mINFO [0;39m http-nio-8080-exec-4] [org.springdoc.api.AbstractOpenApiResource] [36mInit duration for springdoc-openapi is: 238 ms[0;39m
+[2024-06-12 15:07:12 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown initiated...[0;39m
+[2024-06-12 15:07:12 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown completed.[0;39m

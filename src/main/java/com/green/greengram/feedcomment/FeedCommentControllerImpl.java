@@ -29,28 +29,15 @@ import static com.green.greengram.common.model.ResultDto.returnDto;
 public class FeedCommentControllerImpl implements FeedCommentController {
     private final FeedCommentService service;
 
-    @PostMapping("post1")
+    @PostMapping
     @Operation(summary = "댓글 작성", description = "postComment")
-    public ResultDto<Integer> postComment1 (@RequestBody PostCommentReq p) {
-        int result = service.postComment1(p);
-        return returnDto(HttpStatus.OK,"댓글 작성 완료", result);
-    }
-
-    @PostMapping("post2")
-    @Operation(summary = "댓글 작성", description = "postComment")
-    public ResultDto<Integer> postComment2 (@RequestBody PostCommentReq p) {
-        long result = service.postComment2(p);
+    public ResultDto<Integer> postComment (@RequestBody PostCommentReq p) {
+        long result = service.postComment(p);
         int r = (int)result;
         return returnDto(HttpStatus.OK,"댓글 작성 완료", r);
     }
 
     @GetMapping
-    @Operation(summary = "검색한 board 목록 가지고오기", description = "<strong>검색한 board 목록을 불러온다요~!~!</strong>" +
-            "<p>검색어를 넣어주세요~!~!</p>")
-    @ApiResponses(value = {
-            @ApiResponse(responseCode = "200", description = "dfs", useReturnTypeSchema = true),
-            @ApiResponse(responseCode = "401", description = "asda", content = @Content(schema = @Schema(implementation = ResultDto.class)))
-    })
     public ResultDto<List<GetCommentsRes>> getComments (@RequestParam("feed_id") long feedId) {
         List<GetCommentsRes> result = service.getComments(feedId);
         return returnDto(HttpStatus.OK,"댓글 불러오기", result);

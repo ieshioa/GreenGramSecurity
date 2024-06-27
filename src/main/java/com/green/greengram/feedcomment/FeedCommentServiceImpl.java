@@ -18,11 +18,7 @@ public class FeedCommentServiceImpl implements FeedCommentService{
     private final FeedCommentMapper mapper;
     private final AuthenticationFacade authenticationFacade;
 
-    public int postComment1(PostCommentReq p) {
-        return mapper.insComment(p);
-    }
-
-    public long postComment2(PostCommentReq p) {
+    public long postComment(PostCommentReq p) {
         p.setUserId(authenticationFacade.getLoginUserId());
         int r = mapper.insComment(p);
         return p.getCommentId();

@@ -1,0 +1,57 @@
+[2024-06-17 13:08:02 [32mINFO [0;39m main] [com.green.greengram.GreenGramSecurityApplication] [36mStarting GreenGramSecurityApplication using Java 17.0.10 with PID 11588 (D:\Students\MJ\backEnd\GreenGramSecurity\build\classes\java\main started by Administrator in D:\Students\MJ\backEnd\GreenGramSecurity)[0;39m
+[2024-06-17 13:08:02 [32mINFO [0;39m main] [com.green.greengram.GreenGramSecurityApplication] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2024-06-17 13:08:03 [32mINFO [0;39m main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2024-06-17 13:08:03 [32mINFO [0;39m main] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2024-06-17 13:08:03 [32mINFO [0;39m main] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2024-06-17 13:08:03 [32mINFO [0;39m main] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.20][0;39m
+[2024-06-17 13:08:03 [32mINFO [0;39m main] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2024-06-17 13:08:03 [32mINFO [0;39m main] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 1114 ms[0;39m
+[2024-06-17 13:08:03 [32mINFO [0;39m main] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Starting...[0;39m
+[2024-06-17 13:08:03 [32mINFO [0;39m main] [com.zaxxer.hikari.pool.HikariPool] [36mHikariPool-1 - Added connection net.sf.log4jdbc.sql.jdbcapi.ConnectionSpy@5409dfdd[0;39m
+[2024-06-17 13:08:03 [32mINFO [0;39m main] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Start completed.[0;39m
+[2024-06-17 13:08:03 [33mWARN [0;39m main] [org.springframework.boot.autoconfigure.security.servlet.UserDetailsServiceAutoConfiguration] [36m
+
+Using generated security password: 2b893283-be29-4dd2-a6b2-bd0aea09c90f
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+[0;39m
+[2024-06-17 13:08:03 [32mINFO [0;39m main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] [36mAdding welcome page: class path resource [static/index.html][0;39m
+[2024-06-17 13:08:04 [32mINFO [0;39m main] [org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver] [36mExposing 1 endpoint(s) beneath base path '/actuator'[0;39m
+[2024-06-17 13:08:04 [32mINFO [0;39m main] [org.springframework.security.web.DefaultSecurityFilterChain] [36mWill secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@4746fb8c, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@3be46d9c, org.springframework.security.web.context.SecurityContextHolderFilter@65da4a5d, org.springframework.security.web.header.HeaderWriterFilter@a0e33db, org.springframework.web.filter.CorsFilter@41d877bb, org.springframework.security.web.authentication.logout.LogoutFilter@4b9fa2f, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@1ab268bd, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@2fafa7b5, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@39c5a105, org.springframework.security.web.session.SessionManagementFilter@40b54762, org.springframework.security.web.access.ExceptionTranslationFilter@1dbc607d, org.springframework.security.web.access.intercept.AuthorizationFilter@45f0038][0;39m
+[2024-06-17 13:08:04 [32mINFO [0;39m main] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
+[2024-06-17 13:08:04 [32mINFO [0;39m main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
+[2024-06-17 13:08:04 [32mINFO [0;39m main] [com.green.greengram.GreenGramSecurityApplication] [36mStarted GreenGramSecurityApplication in 2.682 seconds (process running for 3.112)[0;39m
+[2024-06-17 13:08:04 [32mINFO [0;39m RMI TCP Connection(3)-192.168.0.207] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring DispatcherServlet 'dispatcherServlet'[0;39m
+[2024-06-17 13:08:04 [32mINFO [0;39m RMI TCP Connection(3)-192.168.0.207] [org.springframework.web.servlet.DispatcherServlet] [36mInitializing Servlet 'dispatcherServlet'[0;39m
+[2024-06-17 13:08:04 [32mINFO [0;39m RMI TCP Connection(3)-192.168.0.207] [org.springframework.web.servlet.DispatcherServlet] [36mCompleted initialization in 3 ms[0;39m
+[2024-06-17 13:08:41 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown initiated...[0;39m
+[2024-06-17 13:08:41 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown completed.[0;39m
+[2024-06-17 13:12:49 [32mINFO [0;39m main] [com.green.greengram.GreenGramSecurityApplication] [36mStarting GreenGramSecurityApplication using Java 17.0.10 with PID 2460 (D:\Students\MJ\backEnd\GreenGramSecurity\build\classes\java\main started by Administrator in D:\Students\MJ\backEnd\GreenGramSecurity)[0;39m
+[2024-06-17 13:12:49 [32mINFO [0;39m main] [com.green.greengram.GreenGramSecurityApplication] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2024-06-17 13:12:50 [32mINFO [0;39m main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2024-06-17 13:12:50 [32mINFO [0;39m main] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2024-06-17 13:12:50 [32mINFO [0;39m main] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2024-06-17 13:12:50 [32mINFO [0;39m main] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.20][0;39m
+[2024-06-17 13:12:50 [32mINFO [0;39m main] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2024-06-17 13:12:50 [32mINFO [0;39m main] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 936 ms[0;39m
+[2024-06-17 13:12:50 [32mINFO [0;39m main] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Starting...[0;39m
+[2024-06-17 13:12:50 [32mINFO [0;39m main] [com.zaxxer.hikari.pool.HikariPool] [36mHikariPool-1 - Added connection net.sf.log4jdbc.sql.jdbcapi.ConnectionSpy@1f172892[0;39m
+[2024-06-17 13:12:50 [32mINFO [0;39m main] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Start completed.[0;39m
+[2024-06-17 13:12:50 [33mWARN [0;39m main] [org.springframework.boot.autoconfigure.security.servlet.UserDetailsServiceAutoConfiguration] [36m
+
+Using generated security password: 70676cd4-bfa7-4ec8-a9ba-56b36067963b
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+[0;39m
+[2024-06-17 13:12:50 [32mINFO [0;39m main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] [36mAdding welcome page: class path resource [static/index.html][0;39m
+[2024-06-17 13:12:50 [32mINFO [0;39m main] [org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver] [36mExposing 1 endpoint(s) beneath base path '/actuator'[0;39m
+[2024-06-17 13:12:50 [32mINFO [0;39m main] [org.springframework.security.web.DefaultSecurityFilterChain] [36mWill secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@41d877bb, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@39c5a105, org.springframework.security.web.context.SecurityContextHolderFilter@1ab268bd, org.springframework.security.web.header.HeaderWriterFilter@40b54762, org.springframework.web.filter.CorsFilter@492fa72a, org.springframework.security.web.authentication.logout.LogoutFilter@32caae19, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@181098bf, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@632b5c79, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@513fab1e, org.springframework.security.web.session.SessionManagementFilter@7809b43a, org.springframework.security.web.access.ExceptionTranslationFilter@a0e33db, org.springframework.security.web.access.intercept.AuthorizationFilter@1a3c4b3e][0;39m
+[2024-06-17 13:12:51 [32mINFO [0;39m main] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
+[2024-06-17 13:12:51 [32mINFO [0;39m main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
+[2024-06-17 13:12:51 [32mINFO [0;39m main] [com.green.greengram.GreenGramSecurityApplication] [36mStarted GreenGramSecurityApplication in 2.244 seconds (process running for 2.669)[0;39m
+[2024-06-17 13:12:51 [32mINFO [0;39m RMI TCP Connection(2)-192.168.0.207] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring DispatcherServlet 'dispatcherServlet'[0;39m
+[2024-06-17 13:12:51 [32mINFO [0;39m RMI TCP Connection(2)-192.168.0.207] [org.springframework.web.servlet.DispatcherServlet] [36mInitializing Servlet 'dispatcherServlet'[0;39m
+[2024-06-17 13:12:51 [32mINFO [0;39m RMI TCP Connection(2)-192.168.0.207] [org.springframework.web.servlet.DispatcherServlet] [36mCompleted initialization in 2 ms[0;39m
+[2024-06-17 13:12:58 [32mINFO [0;39m http-nio-8080-exec-5] [org.springdoc.api.AbstractOpenApiResource] [36mInit duration for springdoc-openapi is: 250 ms[0;39m
+[2024-06-17 13:19:14 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown initiated...[0;39m
+[2024-06-17 13:19:14 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown completed.[0;39m
