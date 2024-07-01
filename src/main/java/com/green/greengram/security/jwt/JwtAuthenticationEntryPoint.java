@@ -16,3 +16,4 @@ public class JwtAuthenticationEntryPoint implements AuthenticationEntryPoint {
         response.sendError(HttpServletResponse.SC_UNAUTHORIZED); // 401에러 리턴
     }
 }
+// 잘못된 토큰, 만료된 토큰,

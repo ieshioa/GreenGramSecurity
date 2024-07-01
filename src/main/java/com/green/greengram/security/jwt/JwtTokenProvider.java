@@ -22,6 +22,14 @@ import java.util.Date;
 @Component
 @RequiredArgsConstructor
 public class JwtTokenProvider {
+    /*
+        V2와 다른점은 SecretKey 멤버필드의 final 유무
+        ObjectMapper, AppProperties 를 생성자를 통해 DI 받고 있음
+        SecretKey 생성자 호출 이후에 @PostConstruct 애노테이션을 가지고 있는 init 메소드르 통해 초기화 됨
+        init 은 메소드이지 생성자가 아니기 떄문에 final을 초기화 할 수 없다.
+        SecretKey 를 final로 세팅할 수 없음
+        나머지는 똑같이 적어도 됨
+     */
     private final ObjectMapper om;
     private final AppProperties appProperties;
 //    private SecretKeySpec secretKeySpec;

@@ -112,6 +112,10 @@ public class SecurityConfiguration {
                                         , "/sign-up"
                                         , "/profile/*"
                                         , "/feed"   // /feed 로 요청이 들어옴 -> 시큐리티에서 허용한거면 통과 -> 핸들러 -> /feed 연결된 api가 없음 -> static을 뒤짐
+
+                                        // actuator
+                                ,"/actuator"
+                                , "/actuator/*"
                                 ).permitAll()
                         .anyRequest().authenticated() // 나머지 다른 요청들은 인증이 필요함 (근데 스웨거는 주소가 다르니까 이렇게 해두면 다 막힘)
 // 사인업과 사인인은 로그인 안해도 쓸 수 있고 나머지는 로그인 해야만 쓸 수 있게 설정

@@ -10,7 +10,9 @@ spring:
     # url: jdbc:log4jdbc:mariadb://localhost:3306/greengram2024_tdd
     username: ${DEFAULT.DB_USERNAME}
     password: ${DEFAULT.DB_PASSWORD}
-
+  jackson:
+    deserialization:
+      fail-on-unknown-properties: false
   servlet:
     multipart:
       max-file-size: 5MB  # 이거 안해주면 디폴트가 1메가임, 20메가까지는 문제 없을거임
@@ -32,28 +34,37 @@ springdoc:
     disabled: true
 
 file:
-  dir: ${DEFAULT.DB_PASSWORD}  # 파일 업로드 시작 위치
+  dir: ${DEFAULT.FILE_DIRECTORY}  # 파일 업로드 시작 위치
 
 app:  # 커스텀임 이름 안중요함
   jwt:
-    secret: DaeguGreenArtAcademyClass502RoomForJavaSpringBootFightingD23sdfsdf23FDSADFSDFDass502RoomForJavaSprinass502RoomForJavaSprin # jwt 만들때 사용하는 열솨(암호화) > 나중애 복호화할때도 사용
+    secret: ${JWT_SECRET} # jwt 만들때 사용하는 열솨(암호화) > 나중애 복호화할때도 사용
     #front-back 간 JWT받는 헤더 키 이름
     header-schema-name: authorization
-
     #토큰의 종류: Bearer 는 JWT or OAuth(소셜로그인 때 사용)를 의미
     token-type: Bearer
-
     #AT - 만료시간(ms) - 30분
     access-token-expiry: 1_800_000
-
     #RT - 만료시간(ms) - 15일
     refresh-token-expiry: 1_296_000_000
 
-#    header-schema-name: authorization # 프론트-백 간 jwt 받는 헤더 키 이름
-#    token-type: Bearer # Bearer : JWT OR 0Auth (소셜로그인 떄 사용)를 의미
-#    access-token-expiry: 1800000 # AT - 만료시간 (ms) (30분)
-#    refresh-token-expiry: 1296000000 # RT - 만료시간 - 15일
-
+management:
+  endpoint: # 엔드포인트 (URL)
+    health:
+      show-details: always #  /actuator/health 의 디테일한 정보
+  endpoints:
+    web:
+      exposure:
+        include: "*" # actuator 의 모든 엔드포인트를 웹에 노출
+  info:
+    java:
+      enabled: true # 디폴트는 폴스
+    os:
+      enabled: true
+    env:
+      enabled: true
+  server:
+    port: 8080 # 8080으로 접근했을때만 볼 수 있게 하는거임 내부에서는 보이는데 도커에 보이면 안보일거임 포드번호가 달라지니까
 
 ---
 
@@ -68,4 +79,18 @@ spring:
       mode: always
 
 file:
-  dir: D:\Students\MJ\download\greengram_tdd_test
+  dir: ${TDD.FILE_DIRECTORY}
+
+---
+
+spring:
+  config:
+    activate:
+      on-profile: prod
+  datasource:
+    url: ${PROD.DB_URL}
+    username: ${PROD.DB_USERNAME}
+    password: ${PROD.DB_PASSWORD}
+
+file:
+  directory: ${PROD.FILE_DIRECTORY}

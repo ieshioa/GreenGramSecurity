@@ -24,11 +24,16 @@ public class JwtAuthenticationFilter extends OncePerRequestFilter { // extends �
     protected void doFilterInternal(HttpServletRequest request, HttpServletResponse response, FilterChain filterChain) throws ServletException, IOException {
         String token = jwtTokenProvider.resolveToken(request); // header 의 authorization 키에 저장되어 있는 값을 리턴
                                                                     //  있으면(로그인했다) 문자열 (JWT) 없으면(로그인 안했다) null
+        // img, css, js, favicon 등을 요청할 때와 프론트가 헤더에 엑세스토큰을 담지 않았을 때 (프론트의 실수 혹은 비로그인) 엑세스토큰이 없음
         // null이 넘어오지 않으면 잘된거
         log.info("JwtAuthenticationFilter-Token : {}",token);
 
         if(token != null && jwtTokenProvider.isValidateToken(token)) { // null이 아니고 토큰이 살아있다면
             Authentication auth = jwtTokenProvider.getAuthentication(token); // SecurityContextHolder의 Context 의 담기 위한 Authentication 객체 생성
+            /*
+            토큰으로부터 마이유저를 얻고 > 마이유저디테일즈에 담고 > 유저네임패스워드어센티케이션토큰에 담아서 리턴
+            유저네임~~토큰이 어센티케이션의 자식 클래스
+             */
             if(auth != null) {
                 // Authentication 객체 주소값을 담으면 인증되었다고 인식
                 SecurityContextHolder.getContext().setAuthentication(auth);
@@ -36,5 +41,15 @@ public class JwtAuthenticationFilter extends OncePerRequestFilter { // extends �
         }
 
         filterChain.doFilter(request, response);
+        /*
+            다음 필터로 넘긴다
+            만약 로그인이 필요한 엔드포인트 (url) 인데 로그인이 되어있지 않으면
+            JWtAuthenticationEntryPoint 에 의해서 401 에러가 리턴
+
+            만약 권한이 필요한 엔드포인트인데 권한이 없으면
+            JwtAuthenticationAccessDeniedHandler에 의해 403 ㅇ에러가 리턴
+
+            엔드포인트 세팅은 시큐리티컨피규레이션의 시큐리티필터체인 메소드에서 한다.
+         */
     }
 }

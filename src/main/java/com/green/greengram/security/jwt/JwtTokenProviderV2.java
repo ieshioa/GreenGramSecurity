@@ -8,9 +8,7 @@ import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.io.Decoders;
 import io.jsonwebtoken.security.Keys;
-import jakarta.annotation.PostConstruct;
 import jakarta.servlet.http.HttpServletRequest;
-import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
 import org.springframework.security.core.Authentication;
@@ -23,6 +21,14 @@ import java.util.Date;
 @Slf4j
 @Component
 public class JwtTokenProviderV2 {
+    /*
+        jwt 생성
+        , Request(요청)의 Header 에서 token 얻기
+        , 확인 (validate: Token 변질이 없었나, 만료시간이 지났나)
+        , Claims (data) 넣고 빼기
+        를 할 수 있는게 JwtTokenProvider
+        핵심은 data Token 에 넣고 뺴고 하는것
+     */
     private final ObjectMapper om;
     private final AppProperties appProperties;
     private final SecretKey secretKey;
@@ -30,7 +36,6 @@ public class JwtTokenProviderV2 {
     public JwtTokenProviderV2(ObjectMapper om, AppProperties appProperties) {
         this.om = om;
         this.appProperties = appProperties;
-        System.out.println("============================" + appProperties.getJwt().getSecret());
         this.secretKey = Keys.hmacShaKeyFor(Decoders.BASE64URL.decode(appProperties.getJwt().getSecret()));
         // 암호화, 복호화할 때 사용하는 키를 생성하는 부분, 디코드 메소드에 보내는 아규먼트값은 우리가 설정한 문자열
     }
@@ -69,7 +74,7 @@ public class JwtTokenProviderV2 {
         return null;
     }
 
-    public Claims getAllClaims(String token) {  // payload를 빼냄
+    public Claims getClaims(String token) {  // payload를 빼냄
         return Jwts
                 .parser()
                 .verifyWith(secretKey)  // 똑같은 키로 복호화를 하겠다
@@ -80,7 +85,7 @@ public class JwtTokenProviderV2 {
 
     public UserDetails getUserDetailsFromToken(String token) {
         try {       // jwt, json 둘다 문자열인데 jwt는 인증코드 json은 데이터
-            Claims claims = getAllClaims(token); // jwt에 저장되어있는 claims를 얻어온다
+            Claims claims = getClaims(token); // jwt에 저장되어있는 claims를 얻어온다
             String json = (String)claims.get("signedUser"); // claims에 저장되어있는 값을 얻어온다 (json)
             MyUser myUser = om.readValue(json, MyUser.class); // json > 객체로 변환 (그것이 UserDetails 인데 정확히는 MyUserDetails이다)
             MyUserDetails myUserDetails = new MyUserDetails();
@@ -110,7 +115,7 @@ public class JwtTokenProviderV2 {
             // 원래는 만료시간이 안지났으면 리턴 false, 지났으면 true
             // 앞에 ! 해서 반전
             // 지남 = false, 안지남 = true
-            return !getAllClaims(token).getExpiration().before(new Date()); // new Date() 여기에 값 안넣어주면 현재 시간을 기준으로 만듦
+            return !getClaims(token).getExpiration().before(new Date()); // new Date() 여기에 값 안넣어주면 현재 시간을 기준으로 만듦
         } catch (Exception e) {
             return false;
         }

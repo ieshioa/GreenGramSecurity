@@ -75,10 +75,21 @@ public class UserServiceImpl implements UserService {
                 .userId(user.getUserId())
                 .role("ROLE_USER")
                 .build();
+
+        /*
+            access, refresh token에 myUser (유저 pk, 권한정보)를 담는다.
+            리프레시 토큰에 마이유저 정보를 넣는 이유는 엑세스토큰을 재발급 받을 때 엑세스 토큰에 마이유저를 담기 위해서이다.
+            리프레시 토큰은 검증만 함 맞는지 아닌지
+            왜 담았냐. accessToken 이 계속 백엔드로 요청 보낼 때 헤더에 넣어서 보내준다.
+            요청이 올때마다 리퀘스트에 토큰이 담겨져 있는지 체그 (jwt필터에서 한다)
+            토큰에 담겨져 있는 마이유저를 빼내서 사용하기 위해 마이유저에 담았다.
+            엑세스 토큰은 바로 프론트에 넘겨주고 리프레시쿠키는 보안쿠키로
+
+         */
         String accessToken = jwtTokenProvider.generateAccessToken(myUser);
         String refreshToken = jwtTokenProvider.generateRefreshToken(myUser);
 
-        // refreshToken 은 보안쿠키를 이용해서 처리
+        // refreshToken 은 보안쿠키를 이용해서 처리 (프론트가 따로 작업을 하지 않아도 아래 쿠키값은 항상 넘어온다.)
         // 쿠기로 넘겨주면 프론트가 훨씬 편함
         // 근데 보안이 약함 > 그래서 보안쿠키 이용
         int refreshTokenMaxAge = appProperties.getJwt().getRefreshTokenCookieMaxAge();

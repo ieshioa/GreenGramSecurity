@@ -40,9 +40,14 @@ public class UserControllerImpl {
         SignInRes result = service.signIn(p, res);
         return returnDto(HttpStatus.OK,"로그인 성공", result);
     }
+    /*
+        프론트는 단지 겟방식으로 아무런 작업 없이 단순히 요청만하면 리프레시 토큰이 넘어온다.
+        이유는 우리가 리프레시 토큰을 로그인을 성공하면 쿠키에 담았기 때문
+        쿠기는 요청마다 항상 넘어온다.
+     */
 
-    @GetMapping("refresh-token")
-    public ResultDto<Map> getRefreshToken(HttpServletRequest req) {
+    @GetMapping("access-token")
+    public ResultDto<Map> getAccessToken(HttpServletRequest req) {
         Map map = service.getAccessToken(req);
 
         return new ResultDto(HttpStatus.OK,"Access Token 발급", map);
